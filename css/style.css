@@ -295,6 +295,42 @@ font header .navbar-default .navbar-nav li a:hover {
 
 
 
+
+
+
+/*--
+	service Start (for work)
+--*/
+#work-content {
+  text-align: center;
+  padding: 10px 0;
+}
+
+#work-content .work-item {
+  padding-bottom: 30px;
+}
+
+#work-content .work-item i {
+  font-size: 60px;
+  color: #4A4656;
+}
+
+#work-content .work-item h4 {
+  padding-top: 10px;
+  margin: 0;
+  color: #666;
+}
+
+#work-content .work-item p {
+  color: #888;
+  padding-top: 10px;
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+
+
 /*--
 	join Start
 --*/
