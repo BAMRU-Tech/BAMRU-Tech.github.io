@@ -1,0 +1,36 @@
+enable: true
+title: Just some of our latest projects.
+subtitle: Don’t just take our word for it. Check out some of our latest work.
+
+# google support the latest technology for image optimization. you can also optimize your image from https://www.ps2pdf.com/convert-jpg-to-webp here.
+portfolio:
+  - category: Wilderness Search
+    image: "../img/portfolio/work5.jpg"
+    name: Wilderness Search
+    description: >
+      Mock Search and SAR basic are designed to show guests what it's like to respond to a callout and execute a search.  (Guest-friendly!)
+  - category: Navigation
+    image: "../img/portfolio/work9.jpg"
+    name: Navigation
+    description: >
+      Navigation is more difficult than most are willing to admit. It's a perishable skill that requires constant practice.
+  - category: Personal Rock Skills
+    image: "../img/portfolio/work10.jpg"
+    name: Personal Rock Skills
+    description: >
+      Without any outdoor rock skills, you cannot safely participate in searches that are often on steep, difficult terrain.
+  - category: Tracking
+    image: "../img/portfolio/work7.jpg"
+    name: Tracking
+    description: >
+      Tracking and clue-awareness skills prove highly valuable when searching for a lost person. (Guest-friendly!)
+  - category: Technical Rope Rescue
+    image: "../img/portfolio/work2.jpg"
+    name: Technical Rope Rescue
+    description: >
+      BAMRU trains to operate the twin tensioned-rope system (TTRS) for low and high-angle systems for rescuing patients.
+  - category: Snow and Alpine
+    image: "../img/portfolio/work6.jpg"
+    name: Snow and Alpine
+    description: >
+      We often operate in avalanche terrain, on steep snow and ice, and at altitude where the cold and exposure are unforgiving.
