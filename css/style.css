@@ -392,6 +392,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #meet .meet-item p {
   color: #888;
   padding-top: 10px;
+  padding-bottom: 10px;
+  height: 240px;
   margin: 0;
   font-size: 14px;
   line-height: 1.8;
