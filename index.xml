@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bay Area Mountain Rescue Unit</title>
+    <link>/</link>
+    <description>Recent content on Bay Area Mountain Rescue Unit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About BAMRU</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BAMRU Trainings</title>
+      <link>/train/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/train/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Come Meet Us</title>
+      <link>/meet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/meet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joining BAMRU</title>
+      <link>/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/join/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
