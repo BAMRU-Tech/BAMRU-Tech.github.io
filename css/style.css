@@ -401,6 +401,41 @@ font header .navbar-default .navbar-nav li a:hover {
 
 
 
+/*--
+	donate Start
+--*/
+#donate {
+  text-align: center;
+  padding: 90px 0;
+}
+
+#donate .donate-item {
+  padding-bottom: 30px;
+}
+
+#donate .donate-item i {
+  font-size: 60px;
+  color: #4A4656;
+}
+
+#donate .donate-item h4 {
+  padding-top: 20px;
+  margin: 0;
+  color: #666;
+}
+
+#donate .donate-item p {
+  color: #888;
+  padding-top: 10px;
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+
+
+
+
 
 
 /*--
@@ -631,6 +666,59 @@ font header .navbar-default .navbar-nav li a:hover {
 #clients-logo-section .clients-logo-img {
   padding: 0px 50px;
 }
+
+
+
+/*--
+	Donate header Start
+--*/
+#donate-header {
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 150px;
+  padding-bottom: 107px;
+  position: relative;
+  background-attachment: fixed;
+}
+
+#donate-header:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
+  opacity: 0.8;
+}
+
+#donate-header .block {
+  color: #E3E3E4;
+  margin: 0 auto;
+  padding-left: 90px;
+  text-align: center;
+}
+
+#donate-header .block h1 {
+  font-weight: 100;
+  font-size: 45px;
+  letter-spacing: 6px;
+  padding-bottom: 15px;
+  margin-top: 0;
+  text-transform: capitalize;
+}
+
+#donate-header .block p {
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+}
+
+
+
 
 /*---------------------------------------------
 					Work Start

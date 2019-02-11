@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>/calendar/</loc>
+  </url>
+  
+  <url>
     <loc>/train/</loc>
   </url>
   
@@ -25,7 +29,7 @@
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>/donate/</loc>
   </url>
   
   <url>
