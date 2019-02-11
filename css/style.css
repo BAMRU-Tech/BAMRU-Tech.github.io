@@ -401,6 +401,42 @@ font header .navbar-default .navbar-nav li a:hover {
 
 
 
+
+/*--
+	calendar Start
+--*/
+#calendar {
+  text-align: center;
+  padding: 90px 0;
+}
+
+#calendar .calendar-item {
+  padding-bottom: 30px;
+}
+
+#calendar .calendar-item i {
+  font-size: 60px;
+  color: #4A4656;
+}
+
+#calendar .calendar-item h4 {
+  padding-top: 20px;
+  margin: 0;
+  color: #666;
+}
+
+#calendar .calendar-item p {
+  color: #888;
+  padding-top: 10px;
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+
+
+
+
 /*--
 	donate Start
 --*/
