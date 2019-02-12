@@ -110,6 +110,15 @@ a:active {
   font-weight: 600;
 }
 
+.donate-title h2 {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.donate-title {
+  margin-bottom: 70px;
+}
+
 .section-title p {
   font-family: 'Volkhov', serif;
   font-style: italic;
