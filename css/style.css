@@ -110,6 +110,13 @@ a:active {
   font-weight: 600;
 }
 
+.section-title p {
+  font-family: 'Volkhov', serif;
+  font-style: italic;
+  color: #666;
+}
+
+/*-- For donation on homepage --*/
 .donate-title h2 {
   font-size: 28px;
   font-weight: 600;
@@ -117,12 +124,6 @@ a:active {
 
 .donate-title {
   margin-bottom: 70px;
-}
-
-.section-title p {
-  font-family: 'Volkhov', serif;
-  font-style: italic;
-  color: #666;
 }
 
 .btn-main,
@@ -140,10 +141,24 @@ a:active {
   transition: all 0.2s ease;
 }
 
+.btn-donate {
+  background: #ffffff;
+  display: inline-block;
+  font-size: 14px;
+  letter-spacing: 1px;
+  padding: 14px 35px;
+  border-radius: 0;
+  border: 1px solid #000; 
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+
 .btn-main:hover,
 .btn-transparent:hover,
-.btn-small:hover {
-  background: #353240;
+.btn-small:hover,
+.btn-donate:hover {
+  background: #655E7A;
   color: #fff;
 }
 .btn-solid-border {
