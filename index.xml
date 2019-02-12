@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>About BAMRU</title>
+      <title>About the Team</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -25,15 +25,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/calendar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Come Meet Us</title>
-      <link>/meet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/meet/</guid>
       <description></description>
     </item>
     
@@ -61,6 +52,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/join/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meet the Team</title>
+      <link>/meet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/meet/</guid>
       <description></description>
     </item>
     

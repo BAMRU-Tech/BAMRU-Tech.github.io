@@ -21,10 +21,6 @@
   </url>
   
   <url>
-    <loc>/meet/</loc>
-  </url>
-  
-  <url>
     <loc>/contact/</loc>
   </url>
   
@@ -34,6 +30,10 @@
   
   <url>
     <loc>/join/</loc>
+  </url>
+  
+  <url>
+    <loc>/meet/</loc>
   </url>
   
   <url>
