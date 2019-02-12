@@ -7,10 +7,6 @@
   </url>
   
   <url>
-    <loc>/train/</loc>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <priority>0</priority>
   </url>
@@ -42,6 +38,10 @@
   
   <url>
     <loc>/partners/</loc>
+  </url>
+  
+  <url>
+    <loc>/services/</loc>
   </url>
   
   <url>
