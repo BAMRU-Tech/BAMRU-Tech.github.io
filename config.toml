@@ -1,5 +1,5 @@
 title = "Bay Area Mountain Rescue Unit"
-baseURL = "https://bamru.org"
+baseURL = "/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
