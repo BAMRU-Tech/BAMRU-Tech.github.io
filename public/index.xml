@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>About BAMRU</title>
+      <title>About the Team</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -20,29 +20,29 @@
     </item>
     
     <item>
-      <title>BAMRU Trainings</title>
-      <link>/train/</link>
+      <title>Calendar of Events</title>
+      <link>/calendar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/train/</guid>
+      <guid>/calendar/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Come Meet Us</title>
-      <link>/meet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/meet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
+      <title>Contact Us</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donate to BAMRU</title>
+      <link>/donate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/donate/</guid>
       <description></description>
     </item>
     
@@ -56,11 +56,38 @@
     </item>
     
     <item>
+      <title>Meet the Team</title>
+      <link>/meet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/meet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partners</title>
+      <link>/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Service</title>
       <link>/service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/</guid>
       <description></description>
     </item>
     

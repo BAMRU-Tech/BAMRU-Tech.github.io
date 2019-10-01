@@ -7,11 +7,11 @@
   </url>
   
   <url>
-    <loc>/train/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/calendar/</loc>
   </url>
   
   <url>
@@ -19,11 +19,11 @@
   </url>
   
   <url>
-    <loc>/meet/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>/donate/</loc>
   </url>
   
   <url>
@@ -31,7 +31,19 @@
   </url>
   
   <url>
+    <loc>/meet/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/</loc>
+  </url>
+  
+  <url>
     <loc>/service/</loc>
+  </url>
+  
+  <url>
+    <loc>/services/</loc>
   </url>
   
   <url>
