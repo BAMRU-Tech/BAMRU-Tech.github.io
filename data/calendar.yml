@@ -1,0 +1,241 @@
+enable: true
+title: Meetings and trainings
+subtitle: See below for upcoming meetings and trainings. 'G' marks training events that are open to Guests. Asterisks * mark the core program for first-year trainees. Hover over trainings for more information.
+
+
+
+content:
+
+- name: Guest Policy
+  text: Permission to participate in any BAMRU event is at the sole discretion of BAMRU. Selected BAMRU trainings are open to guests provided the guest has (1) attended a general meeting preceding the training, (2) turned in a completed Sheriff's Office waiver form and been "sworn" by a designated Sheriff's official, (3) met with the training leader and been approved by that leader as meeting any prerequisites specific to that training, and (4) There is space. Some of the trainings have limited space for guests. All events and schedules are subject to change. 
+
+meetings:
+
+ - title: Leadership Meeting 
+   location: East Bay 
+   date: Feb 18
+ 
+ - title: Unit Meeting (7:30pm) 
+   location: East Bay 
+   date: Feb 18
+ 
+ - title: Leadership Meeting 
+   location: Peninsula 
+   date: Mar 18
+ 
+ - title: Unit Meeting (7:30pm) 
+   location: Peninsula 
+   date: Mar 18
+ 
+ - title: Leadership Meeting 
+   location: Barkley's	
+   date: Apr 10
+ 
+ - title: Leadership Meeting 
+   location: East Bay 
+   date: Apr 15
+ 
+ - title: Unit Meeting (7:30pm) 
+   location: East Bay 
+   date: Apr 15
+ 
+ - title: Applications to Join BAMRU Due
+   date: Apr 19
+ 
+ - title: Prospective Trainee Interviews TBA	
+   date: Apr 27
+ 
+ - title: Introduction to BAMRU
+   date: May 8
+ 
+ - title: Leadership Meeting 
+   location: Peninsula 
+   date: May 13
+ 
+ - title: Unit Meeting (7:30pm) 
+   location: Peninsula 
+   date: May 13
+ 
+ - title: Leadership Meeting 
+   location: East Bay 
+   date: Jun 17
+ 
+ - title: Unit Meeting (7:30pm) 
+   location: East Bay 
+   date: Jun 17
+ 
+ - title: 3rd Quarterly Leadership Meeting
+   location: 525 Marshall Street
+   date: Jul 10
+   
+ - title: Leadership Meeting 
+   location: Peninsula 
+   date: Jul 15
+ 
+ - title: Unit Meeting (7:30pm) 
+   location: Peninsula 
+   date: Jul 15
+ 
+ - title: Leadership Meeting 
+   location: East Bay 
+   date: Aug 19
+ 
+ - title: Unit Meeting (7:30pm) 
+   location: East Bay 
+   date: Aug 19
+ 
+ - title: Leadership Meeting 
+   location: Peninsula 
+   date: Sep 16
+ 
+ - title: Unit Meeting (7:30pm) 
+   location: Peninsula 
+   date: Sep 16
+ 
+ - title: 4th Quarterly Leadership Meeting
+   location: 525 Marshall Street
+   date: Oct 9
+   
+ - title: Leadership Meeting 
+   location: East Bay 
+   date: Oct 21
+ 
+ - title: Unit Meeting (7:30pm) 
+   location: East Bay 
+   date: Oct 21
+ 
+ - title: Leadership Meeting 
+   location: Peninsula 
+   date: Nov 11
+ 
+ - title: Unit Meeting (7:30pm) 
+   location: Peninsula 
+   date: Nov 11
+ 
+    
+trainings:
+
+  
+- title: MRA Recert Training 
+  location: TBA
+  date: Feb 16
+  leader: Jacobs
+
+- title: MRA Snow & Ice Reaccreditation 
+  location: TBA
+  date: Mar 2
+  leader: TBA
+
+- title: Mental Health Skills Night 
+  location: 555 Marshall Street, Redwood City, CA
+  date: Mar 6
+  leader: L Chromik
+
+- title: Mock Search G 
+  location: TBA
+  date: Mar 23
+  leader: White
+  desc: Our first recruiting event of the year, designed to show guests what it is like to respond to a callout and execute a search. Training open to Guests.
+
+- title: Lassen Small Alpine 
+  location: Lassen Volcanic NP
+  date: Mar 30
+  leader: Yuchen Lin
+  
+- title: SAR Basic G 
+  location: Huddart Park
+  date: Apr 13
+  leader: L Chromik
+  desc: Intensive weekend training to orient prospective members on the basic skills required to operate effectively in search and rescue operations. Intended for people with no prior SAR experience. Attendance at SAR Basic is one of the requirements for application to become a Trainee member. Training open to guests, pending Leader approval.
+
+- title: Thunder Mountain Small Alpine 
+  location: 38.6742, -120.0907
+  date: Apr 20
+  leader: M Mattos
+
+- title: Navigation Classroom * 
+  location: County Room 101, 455 County Center, Redwood City, CA
+  date: May 15
+  leader: Panek
+
+- title: Navigation * 
+  location: TBA
+  date: May 18
+  leader: Panek
+  desc: Navigation training and signoffs, concentrating on map and compass, gps and caltopo usage. Focusing on becoming an effective nav lead during operations. Prerequisite include ability to read topo maps and relate terrain features to topo maps.
+
+- title: Gear/Truck Familiarization * 
+  location: TBA
+  date: May 19
+  leader: Barkley
+  desc: An introduction to our extensive gear collection and where everything is stored in the trucks. Learn how to set up a mobile command post.
+
+- title: Personal Rock Skills * 
+  location: TBA
+  date: Jun 22
+  leader: Gleason
+  desc: This two day course covers general rock skills skill stations, scenarios, and discussion of their application within the SAR community. Topics include anchors (trad gear and natural protection), belaying, rappelling, basic self-rescue, jugging/ascending, and personal emergency evac equipment with scenarios. Focus will be on both theory and practice. Personal rock skills is a prerequisite for Basic Technical Training.
+
+- title: Tracking * G 
+  location: TBA
+  date: Jul 20
+  leader: Dacre
+  desc: The tracking training will cover primarily basic topics in tracking - recognizing sign, preserving clues, the structure of a tracking team, and following sign. Guests are welcome at this training, pending leader approval.
+
+- title: Low Angle * 
+  location: TBA
+  date: Jul 21
+  leader: Lariviere
+  desc: We will focus on single line rescue systems as an introduction to the larger world of technical rescue. Personal Rock Skills is required to attend this training.
+  
+- title: DO Skills * 
+  location: Redwood City
+  date: Jul 31
+  leader: Barkley
+  desc: We will cover the theory of being Duty Officer (what needs to be done during any DO shift, DO-ing during a training, what needs to be done in the ramp up for a search, etc), and the practice of DO-ing (how do we accomplish all of these things with the tools we have, like bamru.net). For new and experienced DOs alike!
+
+- title: AHC Skills * 
+  location: TBA
+  date: Aug 14
+  leader: Barkley
+  desc: The second half of the DO/AHC skills night series. This teaches you how to be an At-Home Coordinator of an operation.
+
+- title: Basic Technical Rescue * 
+  location: TBA
+  date: Aug 24
+  leader: Allen
+  desc: Basic Technical Rescue is two full days, covering the basics of our standard two-line TTRS high-angle rescue system. Participants must have completed Personal Rock Skills and Low Angle.
+
+- title: Search Management 
+  location: TBA
+  date: Sep 21
+  leader: Kantarjiev
+  desc: We will spend two days planning and executing the first operational period of a search operation, in slow motion, in rugged terrain.
+
+- title: Operations Leader (OL) Training 
+  location: County Room 101, 455 County Center, Redwood City, CA
+  date: Oct 12
+  leader: Chang
+  desc: Participation by invitation only. For Field and Technical Members.
+
+- title: Urban SAR (USAR) 
+  location: TBA
+  date: Oct 26
+  leader: Taylor
+  desc: Training on urban search and rescue techniques and safety.
+
+- title: Search Exercise 
+  location: TBA
+  date: Oct 27
+  leader: Duncklee
+
+- title: Medical * G 
+  location: TBA
+  date: Nov 16
+  leader: Lass
+  desc: Medical Skills Training is all about putting our skills and knowledge to use. BAMRU has an exciting medical skills training planned this year. Some highlights include guest lecture by Stanford's Wilderness Medicine Fellow, Skill labs with lots of hands on practice, and the BAMRU Medical Olympics where groups compete at a diverse set of wilderness scenarios. Training open to guests, pending Leader approval.
+
+- title: Skills Weekend or Makeup Training 
+  location: TBA
+  date: Dec 14
+  leader: TBA

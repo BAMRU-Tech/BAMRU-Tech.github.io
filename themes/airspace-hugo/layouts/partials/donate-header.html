@@ -1,0 +1,29 @@
+<!-- Slider Start -->
+<section id="donate-header" style="background-image: url('{{.Params.BgImage | absURL }}');">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h1>{{ .Title }}</h1>
+                    <p>{{ .Params.subtitle }}</p>
+                    <br>
+
+                    <!-- the tacky looking button -->
+                    <div style='text-align: center;'>
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                      <input type="hidden" name="cmd" value="_s-xclick" />
+                      <input type="hidden" name="hosted_button_id" value="9393182" />
+                      <input type="submit" class="btn btn-main btn-solid-border" value="donate to BAMRU via PayPal">
+                      <!--<input type="image" src="/img/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />-->
+                      <img alt="" border="0" src="/img/pixel.gif" width="1" height="1" />
+                    </form>
+                    </div>
+
+                      <!-- the cool looking button -->
+                      <!--<a class="btn btn-main btn-solid-border" href="{{ .Site.Params.donate.url | absURL }}" >{{ .Site.Params.donate.btnText }}</a>-->
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

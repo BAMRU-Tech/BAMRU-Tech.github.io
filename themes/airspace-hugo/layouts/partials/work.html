@@ -6,6 +6,14 @@
         <div class="row">
           <div class="col-md-12">
             <div class="block">
+
+              <!-- Intro -->
+              <div class="portfolio-menu">
+                <div class="section-title">
+                  <h2>{{ .Site.Data.work.title }}</h2>
+                  <p>{{ .Site.Data.work.subtitle }}</p>
+                </div>
+              </div>
               <!--<div class="portfolio-menu">
                 <ul>
                   {{ $categories := slice }}
@@ -42,6 +50,23 @@
     </div>
 </section>
 
+
+<!-- Content -->
+<section id="work-content">
+  <div class="container">
+    <div class="row">
+      {{ range .Site.Data.work.content }}
+      <div class="col-sm-6 col-md-6">
+        <div class="work-item">
+          <i class="{{ .icon }}"></i>
+          <h4>{{ .name }}</h4>
+          <p>{{ .text }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
 <!-- Clients Logo Section Start -->
 <!--<section id="clients-logo-section">
   <div class="container">

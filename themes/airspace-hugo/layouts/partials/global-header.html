@@ -6,6 +6,11 @@
                 <div class="block">
                     <h1>{{ .Title }}</h1>
                     <p>{{ .Params.subtitle }}</p>
+                    <!-- the cool looking button -->
+                    {{ if .Params.btnText }}
+                      <br>
+                      <a class="btn btn-main btn-solid-border" href="{{ .Params.next | absURL }}" > {{ .Params.btnText }}  </a>
+                    {{ end }}
                 </div>
             </div>
         </div>

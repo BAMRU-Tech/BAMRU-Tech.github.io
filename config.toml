@@ -15,38 +15,37 @@ theme = "airspace-hugo"
       url = "/about"
     [[menu.header]]
       weight = 3
+      name = "Services"
+      url = "/services"
+      [[menu.header]]
+      weight = 4
       name = "Join"
       url = "/join"
     [[menu.header]]
-      weight = 4
+      weight = 5
       name = "Meet Us"
       url = "/meet"
-    [[menu.header]]
-      weight = 5
-      name = "Trainings"
-      url = "/train"
-
 
     [[menu.footer]]
       weight = 1
       name = "Donate"
-      url = "#"
+      url = "/donate"
     [[menu.footer]]
       weight = 2
       name = "Calendar"
-      url = "#"
+      url = "/calendar"
     [[menu.footer]]
       weight = 3
       name = "Contact us"
-      url = "#"
+      url = "/contact"
     [[menu.footer]]
       weight = 4
       name = "Blog"
-      url = "#"
+      url = "http://bamru.blogspot.com/"
     [[menu.footer]]
       weight = 5
       name = "Partners"
-      url = "#"
+      url = "/partners"
 
   [params.slider]
     enable = true
@@ -54,7 +53,7 @@ theme = "airspace-hugo"
     subtitle = "BAMRU is a volunteer wilderness search and rescue team specializing in difficult terrain, challenging weather, and high altitude.  We are based in the San Francisco Bay Area and operate throughout California."
     bgImage = "img/slider-bg.jpg"
     btnText = "Learn More"
-    url = "#"
+    url = "/about"
 
   [params.wrapper]
     enable = true
@@ -62,7 +61,6 @@ theme = "airspace-hugo"
     title = "About BAMRU"
     italic = "BAMRU is an all-volunteer wilderness search and rescue (SAR) unit, based in the San Francisco Bay Area. We look for and help people lost or stranded anywhere outdoors in California."
     paragraph = "Members of BAMRU are climbers, mountaineers, backpackers and skiers who train in a variety of skills used for wilderness search and rescue. BAMRU members live all over the Bay Area, from Marin to Santa Cruz and from San Francisco to Contra Costa County. BAMRU is an accredited member of the Mountain Rescue Association and is a FEMA and California OES Type I search and rescue resource. This means that we have the ability to operate safely and effectively, night or day, in all terrain, in all weather, in all seasons."
-
     
   [params.feature]
     enable = true
@@ -70,14 +68,27 @@ theme = "airspace-hugo"
     bgImage = "img/feature-bg.jpg"
     content = "As a technical rescue team, BAMRU has the skills necessary for low- and high-angle rescue operations. BAMRU members are continually advancing their skills in the disciplines of tracking, search operation management, and wilderness medicine. Our experience allows us to work safely and comfortably in any challenging and hazardous wilderness situations."
     [params.feature.button]
-      caption = "View Trainings"
-      url = "/train"
+      caption = "What does BAMRU do?"
+      url = "/services"
 
+  [params.donate]
+    enable = true
+    btnText = "Donate to BAMRU via PayPal"
+    url = "/donate"
+
+  [params.contact.box]
+    title = "how to get in touch with us:"
+    address = "Bay Area Mountain Rescue Unit, PO Box 19184, Stanford CA, 94309"
+    email = "info@bamru.org"
+    recruit = "recruiting@bamru.org"
+    phone = "please call 911 to report a missing person."
+    
+  
   [params.call]
     enable = false
     bgImage = "img/call-to-action-bg.jpg"
     title = "Apply to be a Trainee"
-    paragraph = "BAMRU members are women and men who share a desire to put their specialized outdoors skills to use in the service of people missing or injured in the wilderness. Self-sufficiency is a trademark of BAMRU. When called upon, members are prepared to operate for up to 72 hours in the field and without support. Trainees take 2+ years to become field members. We do this on top of our day jobs and family responsibilities. Are you ready for that?"
+    paragraph = "BAMRU members are women and men who share a desire to put their specialized outdoors skills to use in the service of people missing or injured in the wilderness. Self-sufficiency is a trademark of BAMRU. When called upon, members are prepared to operate for up to 72 hours in the field and without support. We do this on top of our day jobs and family responsibilities. Are you ready to make that commitment?"
     [params.call.button]
       url = "/join"
       text = "find out how to apply"

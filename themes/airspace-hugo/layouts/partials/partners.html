@@ -1,32 +1,47 @@
 {{ partial "global-header.html" . }}
 
-{{ if .Site.Data.meet.enable }}
+{{ if .Site.Data.partners.enable }}
 <!-- Service Start -->
-<section id="meet">
+<section id="partners">
   <div class="container">
 
     <!-- Intro -->
-
+    <!--
     <div class="row">
       <div class="section-title">
-        <h2>{{ .Site.Data.meet.title }}</h2>
-        <p>{{ .Site.Data.meet.subtitle }}</p>
+        <h2>{{ .Site.Data.partners.title }}</h2>
+        <p>{{ .Site.Data.partners.subtitle }}</p>
       </div>
-    </div>
+    </div>-->
 
     <!-- Content -->
     <div class="row">
-      {{ range .Site.Data.meet.content }}
+      {{ range .Site.Data.partners.content }}
       <div class="col-sm-6 col-md-6">
-        <div class="meet-item">
+        <div class="partners-item">
           <i class="{{ .icon }}"></i>
           <h4>{{ .name }}</h4>
           <p>{{ .text }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+
+
+    <!-- Partner logos -->
+    <div class="row">
+      <br>
+      <br>
+      {{ range .Site.Data.partners.logos }}
+      <div class="col-sm-2 col-md-2">
+        <div class="partners-item">
           <img class="img-responsive" src="{{ $.Site.BaseURL }}{{ .image }}" />
         </div>
       </div>
       {{ end }}
     </div>
+
+
   </div>
 </section>
 {{ end }}

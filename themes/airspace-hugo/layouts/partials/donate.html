@@ -1,0 +1,44 @@
+{{ partial "donate-header.html" . }}
+
+{{ if .Site.Data.donate.enable }}
+<!-- Service Start -->
+<section id="donate">
+  <div class="container">
+
+    <!-- Intro -->
+    <!--
+    <div class="row">
+      <div class="section-title">
+        <h2>{{ .Site.Data.donate.title }}</h2>
+        <p>{{ .Site.Data.donate.subtitle }}</p>
+      </div>
+    </div>-->
+
+    <!--
+    <!-- Donate
+    <div style='text-align: center;'>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+      <input type="hidden" name="cmd" value="_s-xclick" />
+      <input type="hidden" name="hosted_button_id" value="9393182" />
+      <input type="image" src="/img/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
+      <img alt="" border="0" src="/img/pixel.gif" width="1" height="1" />
+    </form>
+    </div>
+    -->
+
+
+    <!-- Content -->
+    <div class="row">
+      {{ range .Site.Data.donate.content }}
+      <div class="col-sm-6 col-md-6">
+        <div class="donate-item">
+          <i class="{{ .icon }}"></i>
+          <h4>{{ .name }}</h4>
+          <p>{{ .text }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,82 @@
+{{ partial "global-header.html" . }}
+
+{{ if .Site.Data.calendar.enable }}
+<!-- Service Start -->
+<section id="calendar">
+  <div class="container">
+
+    <!-- Intro -->
+
+    <div class="row">
+      <div class="section-title">
+        <h2>{{ .Site.Data.calendar.title }}</h2>
+        <p>{{ .Site.Data.calendar.subtitle }}</p>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div class="row">
+      {{ range .Site.Data.calendar.content }}
+      <div class="col-sm-12 col-md-12">
+        <div class="calendar-item">
+          <i class="{{ .icon }}"></i>
+          <h4>{{ .name }}</h4>
+          <p>{{ .text }}</p>
+          <br><br>
+        </div>
+      </div>
+      {{ end }}
+
+    </div>
+
+    <!-- Content -->
+    <div class="row">
+
+      <!-- 2 col wrapper -->
+      <div class="col-sm-6 col-md-6">
+        <h4>2019 General Meetings</h4>
+        <hr>
+        <!-- meeting event ----------------------------------->
+        {{ range .Site.Data.calendar.meetings }}
+        <div class="col-sm-12 col-md-12">
+          <div class="calendar-item">
+            <i class="{{ .icon }}"></i>
+            <table width="100%">
+              <tr>
+                <td width="70%"><b>{{ .title }},</b> {{ .location }} {{ .leader }}</td>
+                <td width="30%">{{ .date }} </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+
+
+      <div class="col-sm-6 col-md-6">
+        <h4>2019 Trainings</h4>
+        <hr>
+        <!-- training event ----------------------------------->
+        {{ range .Site.Data.calendar.trainings }}
+        <div class="col-sm-12 col-md-12">
+          <div class="calendar-item">
+            <i class="{{ .icon }}"></i>
+            <table width="100%">
+              <tr>
+                <td width="70%" {{ if .desc }} style="color:#ff5533;" {{ end }}><b>{{ .title }},</b> {{ .location }} {{ .leader }}</td>
+                <td width="30%">{{ .date }} </td>
+              </tr>
+            </table>
+            {{ if .desc }}
+            <span class="calendar-item-text">{{ .desc }}</span>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+
+
+    </div>
+  </div>
+</section>
+{{ end }}

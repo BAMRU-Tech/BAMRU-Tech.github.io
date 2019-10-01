@@ -1,8 +1,9 @@
 enable: true
-title: Facts About Us
+title: BAMRU is a non-profit volunteer organization
 paragraph: >
-  BAMRU is an independent, 501(c)3 non-profit corporation with an elected board of directors, affiliated with the San Mateo County (California) Sheriff's Emergency Services Bureau. BAMRU members donate their time for training and emergency operations. No payment is expected for our services.
-
+  Donations and financial support from people like you help us with our training and equipment expenses and allows us to continue to serve our communities. All of our members donate their time voluntarily with no expectation of payment.  We thank you for your support!
+btnText: "Donate to BAMRU"
+donateurl: "/donate"
 number:
   enable : true
 numbers:
@@ -12,7 +13,7 @@ numbers:
     text: Volunteer hours last year
   - counter: 52
     text: Active members
-  - counter: 460
+  - counter: 1080
     text: meters of rescue rope
 
 peoples:
@@ -29,7 +30,7 @@ people:
     quoteImg: img/cotation.png
     image: img/item-img1.jpg
     name: Alice Ng
-    role: Excutive Officier    
+    role: Excutive Officer    
   - text: >
       It is an honor to serve our community the way we do, you will learn a lot about SAR, but also about yourself.
     quoteImg: img/cotation.png

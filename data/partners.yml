@@ -1,0 +1,33 @@
+enable: true
+title:
+subtitle: 
+content:
+  
+  - name: What is BASARC?
+    text: >
+      The Bay Area Search and Rescue Council works to foster cooperation and standard search management practices among volunteer SAR teams from throughout the San Francisco Bay Area region. BASARC works to ensure that mutual aid operations in the Bay Area proceed smoothly. Its management protocols are extraordinarily effective in large search operations.
+
+  - name: What is the MRA?
+    text: >
+      BAMRU is a member team of the Mountain Rescue Association (MRA). The MRA is an international organization of wilderness search and rescue teams specializing in mountaineering and technical SAR operations. As an MRA team, BAMRU must undergo annual recertification in rock rescue, winter operations, and general search techniques.
+    image: "img/partners/mra.gif"
+    
+logos:
+
+  - name: MRA
+    image: "img/partners/mra.gif"
+    
+  - name: NASAR
+    image: "img/partners/nasar.png"
+    
+  - name: SMC Sheriff's Office
+    image: "img/partners/smc_sheriff.png"
+    
+  - name: CARDA
+    image: "img/partners/carda.png"
+    
+  - name: Cal OES
+    image: "img/partners/cal_oes.jpg"
+    
+  - name: SMC OES
+    image: "img/partners/smc_oes.gif"

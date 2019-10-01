@@ -4,6 +4,8 @@
 {{ with .Site.Params.contact }}
 <section id="contact-form">
   <div class="container">
+
+    <!--
     <div class="row">
       <div class="col-md-6 col-sm-12">
         <div class="block">
@@ -31,6 +33,9 @@
         </div>
       </div>
     </div>
+    -->
+
+
     <div id="contact-box" class="row">
       <div class="col-md-6 col-sm-12">
         <div class="block">
@@ -44,11 +49,14 @@
               <i class="fa fa-envelope-o"></i>{{ .box.email }}
             </li>
             <li>
+              <i class="fa fa-envelope-o"></i>{{ .box.recruit }}
+            </li>
+            <li>
               <i class="fa fa-phone"></i>{{ .box.phone }}
             </li>
           </ul>
           <ul class="social-icons">
-          {{ range .social }}  
+          {{ range .social }}
             <li>
               <a href="{{ .url }}"><i class="fa {{ .icon }}"></i></a>
             </li>
@@ -56,7 +64,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-md-6 col-sm-12">
+      <!--<div class="col-md-6 col-sm-12">
         {{ with .gmaps}}
         <div class="block">
           <h2>{{ .title }}</h2>
@@ -65,7 +73,7 @@
             </div>
         </div>
         {{ end }}
-      </div>
+      </div>-->
     </div>
   </div>
 </section>

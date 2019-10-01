@@ -18,7 +18,7 @@
                 <img src="{{ .Site.BaseURL }}img/logo.png" alt="{{ .Site.Title }} Logo">
               </a>
             </div>
-            
+
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -27,8 +27,14 @@
                 {{ range .Site.Menus.header }}
                 <li><a href="{{ .URL }}/">{{ .Name }}</a></li>
                 {{ end }}
+                <li><a class="btn-donate" href="{{ .Site.Data.testimonial.donateurl }}"> Donate </a>
               </ul>
+              <!-- stand alone donate button? -->
+
+
             </div><!-- /.navbar-collapse -->
+
+
           </div><!-- /.container-fluid -->
         </nav>
       </div>

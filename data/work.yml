@@ -1,6 +1,6 @@
 enable: true
-title: Just some of our latest projects.
-subtitle: Don’t just take our word for it. Check out some of our latest work.
+title: What does BAMRU do?
+subtitle: Hover over the images to see the description of the services we provide.
 
 # google support the latest technology for image optimization. you can also optimize your image from https://www.ps2pdf.com/convert-jpg-to-webp here.
 portfolio:
@@ -8,29 +8,40 @@ portfolio:
     image: "../img/portfolio/work5.jpg"
     name: Wilderness Search
     description: >
-      Mock Search and SAR basic are designed to show guests what it's like to respond to a callout and execute a search.  (Guest-friendly!)
-  - category: Navigation
+      When anyone gets lost in the rugged Californian outdoors, we are trained and prepared to assist those in trouble.
+  - category: Mutual Aid
     image: "../img/portfolio/work9.jpg"
-    name: Navigation
+    name: Mutual Aid
     description: >
-      Navigation is more difficult than most are willing to admit. It's a perishable skill that requires constant practice.
-  - category: Personal Rock Skills
-    image: "../img/portfolio/work10.jpg"
-    name: Personal Rock Skills
+      While we are based in our home county of San Mateo, we frequently work with other agencies across California.
+  - category: High Altitude
+    image: "../img/portfolio/work11.jpg"
+    name: High Altitude
     description: >
-      Without any outdoor rock skills, you cannot safely participate in searches that are often on steep, difficult terrain.
-  - category: Tracking
+      We are committed to serving, regardless of the environment or altitude.
+  - category: Evidence Search
     image: "../img/portfolio/work7.jpg"
-    name: Tracking
+    name: Evidence Search
     description: >
-      Tracking and clue-awareness skills prove highly valuable when searching for a lost person. (Guest-friendly!)
+      We are sometimes called upon by the Sheriff’s office to assist in searching for evidence in criminal cases.
   - category: Technical Rope Rescue
     image: "../img/portfolio/work2.jpg"
     name: Technical Rope Rescue
     description: >
-      BAMRU trains to operate the twin tensioned-rope system (TTRS) for low and high-angle systems for rescuing patients.
+      We specialize in low- and high-angle rescue using the  twin tensioned-rope system (TTRS).
   - category: Snow and Alpine
     image: "../img/portfolio/work6.jpg"
     name: Snow and Alpine
     description: >
       We often operate in avalanche terrain, on steep snow and ice, and at altitude where the cold and exposure are unforgiving.
+
+
+content:
+  
+  - name: Where does BAMRU operate?
+    text: >
+      BAMRU operates anywhere and at any altitude in California. We typically train in our backyard, the Santa Cruz mountains or in the Sierras to be prepared for the variety of terrain that our beautiful state has to offer.
+
+  - name: Who pays for these services?
+    text: >
+      We are an all-volunteer non-profit organization. Our members volunteer their own time and equipment to training and searches. No payment is expected for our services, although donations and financial support are welcome.

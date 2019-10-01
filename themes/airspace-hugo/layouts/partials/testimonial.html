@@ -4,9 +4,12 @@
   <div class="container">
     <!-- Header -->
     <div class="row">
-      <div class="section-title text-center">
+      <div class="donate-title text-center">
         <h2>{{ .Site.Data.testimonial.title }}</h2>
         <p>{{ .Site.Data.testimonial.paragraph }}</p>
+        <br>
+        <a href="{{ .Site.Data.testimonial.donateurl }}" class="btn btn-main">{{ .Site.Data.testimonial.btnText }}</a>
+        <br><br>
       </div>
     </div>
 
