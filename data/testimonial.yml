@@ -7,11 +7,11 @@ donateurl: "/donate"
 number:
   enable : true
 numbers:
-  - counter: 18
+  - counter: 20
     text: Searches in past year
-  - counter: 16000
+  - counter: 15277
     text: Volunteer hours last year
-  - counter: 52
+  - counter: 54
     text: Active members
   - counter: 1080
     text: meters of rescue rope
