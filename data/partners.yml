@@ -2,14 +2,18 @@ enable: true
 title:
 subtitle: 
 content:
-  
+
+  - name: What is SMC SO?
+    text: >
+      BAMRU is a member of the San Mateo County’s Sheriff’s Office, Homeland Security Division, Emergency Services Bureau / Office of Emergency Services (SMC SO). BAMRU is a member of the Sheriff's Volunteer Forces that are comprised of several volunteer units with specialized skills. As part of SMC SO, BAMRU is deployed to a number of different types of search and rescue incidents within San Mateo County and as part of the California Office of Emergency Services (CAL OES) mutual aid system and participates in community events and fairs in San Mateo County.
+
   - name: What is BASARC?
     text: >
-      The Bay Area Search and Rescue Council works to foster cooperation and standard search management practices among volunteer SAR teams from throughout the San Francisco Bay Area region. BASARC works to ensure that mutual aid operations in the Bay Area proceed smoothly. Its management protocols are extraordinarily effective in large search operations.
-
+      The Bay Area Search and Rescue Council (BASARC) works to foster cooperation and standard search management practices among volunteer SAR teams from throughout the San Francisco Bay Area region. BASARC works to ensure that mutual aid operations in the Bay Area proceed smoothly. Its management protocols are extraordinarily effective in large search operations.
+  
   - name: What is the MRA?
     text: >
-      BAMRU is a member team of the Mountain Rescue Association (MRA). The MRA is an international organization of wilderness search and rescue teams specializing in mountaineering and technical SAR operations. As an MRA team, BAMRU must undergo annual recertification in rock rescue, winter operations, and general search techniques.
+      BAMRU is a member team of the Mountain Rescue Association (MRA). The MRA is an international organization of wilderness search and rescue teams specializing in mountaineering and technical SAR operations. As an MRA team, BAMRU must undergo annual recertification in technical rock rescue, snow and ice rescue, and search management. 
     image: "img/partners/mra.gif"
     
 logos:
@@ -22,6 +26,7 @@ logos:
     
   - name: SMC Sheriff's Office
     image: "img/partners/smc_sheriff.png"
+    url: "https://hsd.smcsheriff.com/"
     
   - name: CARDA
     image: "img/partners/carda.png"

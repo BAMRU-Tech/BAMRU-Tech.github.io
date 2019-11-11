@@ -1,11 +1,11 @@
 enable: true
-title: BAMRU is a non-profit volunteer organization
+title:
 paragraph: >
-  Donations and financial support from people like you help us with our training and equipment expenses and allows us to continue to serve our communities. All of our members donate their time voluntarily with no expectation of payment.  We thank you for your support!
+    Another way to support the team is through donations that help cover our training and equipment expenses. 100% of your donation will go to supporting our operational costs. We are an all-volunteer  501(c) (3) non-profit organization (Federal ID 23-7098709). We thank you for your support!
 btnText: "Donate to BAMRU"
 donateurl: "/donate"
 number:
-  enable : true
+  enable : false
 numbers:
   - counter: 20
     text: Searches in past year
@@ -17,7 +17,7 @@ numbers:
     text: meters of rescue rope
 
 peoples:
-  enable : true
+  enable : false
 people:
   - text: >
       The training is tough! but real searches are tougher. Nothing really prepares you for the real deal.

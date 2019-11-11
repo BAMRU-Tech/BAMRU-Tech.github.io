@@ -40,17 +40,33 @@ theme = "airspace-hugo"
       url = "/contact"
     [[menu.footer]]
       weight = 4
-      name = "Blog"
-      url = "http://bamru.blogspot.com/"
-    [[menu.footer]]
-      weight = 5
       name = "Partners"
       url = "/partners"
+    [[menu.footer]]
+      weight = 5
+      name = "Facebook"
+      url = "https://www.facebook.com/Bay-Area-Mountain-Rescue-Unit-BAMRU-285355628178842/"
+    [[menu.footer]]
+      weight = 6
+      name = "LinkedIn"
+      url = "https://www.linkedin.com/company/bamru/"
+    [[menu.footer]]
+      weight = 7
+      name = "Twitter"
+      url = "https://twitter.com/BAMRUorg/"
+    [[menu.footer]]
+      weight = 8
+      name = "Instagram"
+      url = "https://www.instagram.com/bamru/"
+    [[menu.footer]]
+      weight = 9
+      name = "Blog"
+      url = "https://bamru.blogspot.com/"
 
   [params.slider]
     enable = true
     title = "Bay Area Mountain Rescue Unit"
-    subtitle = "BAMRU is a volunteer wilderness search and rescue team specializing in difficult terrain, challenging weather, and high altitude.  We are based in the San Francisco Bay Area and operate throughout California."
+    subtitle = "BAMRU is an all-volunteer, non-profit wilderness search and rescue team specializing in operations involving difficult terrain, challenging weather conditions and high altitude. We are affiliated with the San Mateo County Sheriff’s Office and operate throughout California.<br><br>45+ years of service <br> 20+ yearly operations <br> 50+ active members <br> 16000+ hours volunteered per year"
     bgImage = "img/slider-bg.jpg"
     btnText = "Learn More"
     url = "/about"
@@ -66,29 +82,25 @@ theme = "airspace-hugo"
     enable = true
     title = "Anytime, Anywhere, All Conditions"
     bgImage = "img/feature-bg.jpg"
-    content = "As a technical rescue team, BAMRU has the skills necessary for low- and high-angle rescue operations. BAMRU members are continually advancing their skills in the disciplines of tracking, search operation management, and wilderness medicine. Our experience allows us to work safely and comfortably in any challenging and hazardous wilderness situations."
+    content = "BAMRU is field deployable for up to 72 hours for anyone in harm’s way in all terrain, all weather and all seasons. Operations range from searches for missing or lost individuals in the high Sierra to communities affected by wildfires.  In addition to mountains, we search along coastal cliffs and in other rural and wilderness environments. Our team is composed of rock climbers, mountaineers, backpackers and backcountry skiers.  Our members are skilled to operate efficiently and safely in technical terrain on rock, snow and ice. BAMRU is an accredited member of the Mountain Rescue Association and a FEMA and California OES Type I search and rescue resource.  We are activated for operations by the San Mateo County Sheriff’s Office."
+  
     [params.feature.button]
       caption = "What does BAMRU do?"
       url = "/services"
 
-  [params.donate]
-    enable = true
-    btnText = "Donate to BAMRU via PayPal"
-    url = "/donate"
-
   [params.contact.box]
-    title = "how to get in touch with us:"
+    title = "How to get in touch with us:"
     address = "Bay Area Mountain Rescue Unit, PO Box 19184, Stanford CA, 94309"
     email = "info@bamru.org"
     recruit = "recruiting@bamru.org"
-    phone = "please call 911 to report a missing person."
-    
+    phone = "please call 911 to report a missing person"
   
   [params.call]
     enable = false
     bgImage = "img/call-to-action-bg.jpg"
-    title = "Apply to be a Trainee"
-    paragraph = "BAMRU members are women and men who share a desire to put their specialized outdoors skills to use in the service of people missing or injured in the wilderness. Self-sufficiency is a trademark of BAMRU. When called upon, members are prepared to operate for up to 72 hours in the field and without support. We do this on top of our day jobs and family responsibilities. Are you ready to make that commitment?"
+    title = "Get Involved"
+    paragraph = "BAMRU serves our community by searching for those lost or injured in the wilderness. The team consists of volunteers who train for hundreds of hours each year to operate under stressful and rapidly changing weather and circumstances. While each member does not attend every operation, being on the team requires a significant time commitment and some flexibility with job and family responsibilities. If you are interested in joining the team, attend one of our meetings, which are open for guests."
     [params.call.button]
       url = "/join"
-      text = "find out how to apply"
+      text = "Learn how to apply"
+    

@@ -37,7 +37,7 @@
 
 
     <div id="contact-box" class="row">
-      <div class="col-md-6 col-sm-12">
+      <div class="col-md-12 col-sm-12">
         <div class="block">
 
           <h2>{{ .box.title }}</h2>
@@ -46,10 +46,11 @@
               <i class="fa fa-map-marker"></i>{{ .box.address }}
             </li>
             <li>
-              <i class="fa fa-envelope-o"></i>{{ .box.email }}
+              <i class="fa fa-envelope-o"></i><a href="mailto:{{ .box.email }}">{{ .box.email }}</a> for general questions
             </li>
             <li>
-              <i class="fa fa-envelope-o"></i>{{ .box.recruit }}
+              <i class="fa fa-envelope-o"></i><a href="mailto:{{ .box.recruit }}">{{ .box.recruit }}</a> for questions about joining the team -- or drop by <a href="/meet">one of our general meetings</a>
+
             </li>
             <li>
               <i class="fa fa-phone"></i>{{ .box.phone }}
