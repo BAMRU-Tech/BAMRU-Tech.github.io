@@ -73,7 +73,7 @@ theme = "airspace-hugo"
 
   [params.wrapper]
     enable = true
-    image = "img/wrapper-img.png"
+    image = "img/logo-square.png"
     title = "About BAMRU"
     italic = "BAMRU is an all-volunteer wilderness search and rescue (SAR) unit, based in the San Francisco Bay Area. We look for and help people lost or stranded anywhere outdoors in California."
     paragraph = "Members of BAMRU are trained in a variety of skills used for wilderness search and rescue. BAMRU members live all over the Bay Area, from Marin to Santa Cruz and from San Francisco to Contra Costa County. BAMRU is an accredited member of the Mountain Rescue Association and is a FEMA and California OES Type I search and rescue resource. This means that we have the ability to operate safely and effectively, night or day, in all terrain, in all weather, in all seasons."

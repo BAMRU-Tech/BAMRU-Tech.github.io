@@ -215,7 +215,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
-  padding: 200px 0 280px 0;
+  padding: 150px 0 150px 0;
   position: relative;
 }
 
@@ -229,11 +229,11 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
   height: 100%;
   background: linear-gradient(to left, #8b86a3, #322e40);
-  opacity: 0.8;
+  opacity: 0.65;
 }
 
 #slider .block {
-  color: #E3E3E4;
+  color: #fff;
 }
 
 #slider .block h1 {
@@ -267,7 +267,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #intro .block p {
-  color: #7B7B7B;
+  color: #666;
   padding-top: 20px;
 }
 
@@ -304,11 +304,11 @@ font header .navbar-default .navbar-nav li a:hover {
 #service .service-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+  color: #555;
 }
 
 #service .service-item p {
-  color: #888;
+  color: #666;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
@@ -340,11 +340,11 @@ font header .navbar-default .navbar-nav li a:hover {
 #work-content .work-item h4 {
   padding-top: 10px;
   margin: 0;
-  color: #666;
+  color: #555;
 }
 
 #work-content .work-item p {
-  color: #888;
+  color: #666;
   padding-top: 10px;
   padding-bottom: 40px;
   margin: 0;
@@ -374,11 +374,11 @@ font header .navbar-default .navbar-nav li a:hover {
 #join .join-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+  color: #555;
 }
 
 #join .join-item p {
-  color: #888;
+  color: #666;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
@@ -408,11 +408,11 @@ font header .navbar-default .navbar-nav li a:hover {
 #about .about-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+  color: #555;
 }
 
 #about .about-item p {
-  color: #888;
+  color: #666;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
@@ -448,11 +448,11 @@ font header .navbar-default .navbar-nav li a:hover {
 #partners .partners-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+  color: #555;
 }
 
 #partners .partners-item p {
-  color: #888;
+  color: #666;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
@@ -484,11 +484,11 @@ font header .navbar-default .navbar-nav li a:hover {
 #calendar .calendar-item h4 {
   padding-bottom: 5px;
   margin: 0;
-  color: #666;
+  color: #555;
 }
 
 #calendar .calendar-item p {
-  color: #888;
+  color: #666;
   padding-top: 5px;
   margin: 0;
   font-size: 14px;
@@ -543,11 +543,11 @@ font header .navbar-default .navbar-nav li a:hover {
 #donate .donate-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+  color: #555;
 }
 
 #donate .donate-item p {
-  color: #888;
+  color: #666;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
@@ -580,15 +580,15 @@ font header .navbar-default .navbar-nav li a:hover {
 #meet .meet-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+  color: #555;
 }
 
 #meet .meet-item p {
-  color: #888;
+  color: #666;
   padding-top: 10px;
   padding-bottom: 10px;
   height: 240px;
-  margin: 0;
+  margin: 0; 
   font-size: 14px;
   line-height: 1.8;
 }
@@ -621,7 +621,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
   height: 100%;
   background: #1d192c;
-  opacity: 0.8;
+  opacity: 0.65;
 }
 
 #call-to-action h2 {
@@ -677,7 +677,8 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #feature p {
-  color: #8d8f92;
+  color: #666
+  ;
   margin-bottom: 20px;
 }
 
@@ -813,7 +814,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
   height: 100%;
   background: linear-gradient(to left, #928dab, #1f1c2c 70%);
-  opacity: 0.8;
+  opacity: 0.65;
 }
 
 #donate-header .block {
@@ -867,11 +868,11 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
   height: 100%;
   background: linear-gradient(to left, #928dab, #1f1c2c 70%);
-  opacity: 0.78;
+  opacity: 0.65;
 }
 
 #global-header .block {
-  color: #E3E3E4;
+  color: #fff;
   margin: 0 auto;
   padding-left: 5px;
   text-align: center;
