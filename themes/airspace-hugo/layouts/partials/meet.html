@@ -22,8 +22,15 @@
           <i class="{{ .icon }}"></i>
           <h4>{{ .name }}</h4>
           <p>{{ .text }}</p>
-          <img class="img-responsive" src="{{ $.Site.BaseURL }}{{ .image }}" />
-        </div>
+          {{ if .image }}
+            <img class="img-responsive" src="{{ $.Site.BaseURL }}{{ .image }}" />
+          {{ end }}
+          {{ if .iframe }}
+            <div class="embed-responsive embed-responsive-4by3">
+              <iframe class="embed-responsive-item" src="{{ .iframe }}"></iframe>
+            </div>
+          {{ end }}
+        </div>  
       </div>
       {{ end }}
     </div>
