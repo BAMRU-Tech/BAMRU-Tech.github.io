@@ -20,9 +20,11 @@ logos:
 
   - name: MRA
     image: "img/partners/mra.gif"
-    
+    url: "https://mra.org/"
+
   - name: NASAR
     image: "img/partners/nasar.png"
+    url: "http://www.nasar.org/"
     
   - name: SMC Sheriff's Office
     image: "img/partners/smc_sheriff.png"
@@ -30,9 +32,12 @@ logos:
     
   - name: CARDA
     image: "img/partners/carda.png"
+    url: "https://carda.org/"
     
   - name: Cal OES
     image: "img/partners/cal_oes.jpg"
+    url: "https://www.caloes.ca.gov/"
     
   - name: SMC OES
     image: "img/partners/smc_oes.gif"
+    url: "https://hsd.smcsheriff.com/divisions/patrol-services/sheriffs-office-oes"

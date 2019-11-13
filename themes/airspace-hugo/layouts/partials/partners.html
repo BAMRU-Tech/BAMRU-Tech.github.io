@@ -35,7 +35,9 @@
       {{ range .Site.Data.partners.logos }}
       <div class="col-sm-2 col-md-2">
         <div class="partners-item">
-          <img class="img-responsive" src="{{ $.Site.BaseURL }}{{ .image }}" />
+          <a href="{{ .url }}" target="_blank">
+            <img class="img-responsive" src="{{ $.Site.BaseURL }}{{ .image }}" />
+          </a>
         </div>
       </div>
       {{ end }}
