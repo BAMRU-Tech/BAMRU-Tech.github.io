@@ -66,7 +66,7 @@ theme = "airspace-hugo"
   [params.slider]
     enable = true
     title = "Bay Area Mountain Rescue Unit"
-    subtitle = "BAMRU is an all-volunteer, non-profit wilderness search and rescue team specializing in operations involving difficult terrain, challenging weather conditions and high altitude. We are affiliated with the San Mateo County Sheriff’s Office and operate throughout California.<br><br>45+ years of service <br> 20+ yearly operations <br> 50+ active members <br> 16000+ hours volunteered per year"
+    subtitle = "BAMRU is an all-volunteer, non-profit wilderness search and rescue team specializing in operations involving difficult terrain, challenging weather conditions and high altitude. We are affiliated with the San Mateo County Sheriff’s Office and operate throughout California.<br><br>45+ years of service <br> 20+ yearly operations <br> 50+ active members <br> 16000+ hours volunteered per year<br><br>"
     bgImage = "img/slider-bg.jpg"
     btnText = "Learn More"
     url = "/about"
@@ -75,14 +75,14 @@ theme = "airspace-hugo"
     enable = true
     image = "img/logo-square.png"
     title = "About BAMRU"
-    italic = "BAMRU is an all-volunteer wilderness search and rescue (SAR) unit, based in the San Francisco Bay Area. We look for and help people lost or stranded anywhere outdoors in California."
-    paragraph = "Members of BAMRU are trained in a variety of skills used for wilderness search and rescue. BAMRU members live all over the Bay Area, from Marin to Santa Cruz and from San Francisco to Contra Costa County. BAMRU is an accredited member of the Mountain Rescue Association and is a FEMA and California OES Type I search and rescue resource. This means that we have the ability to operate safely and effectively, night or day, in all terrain, in all weather, in all seasons."
+    italic = "The Bay Area Mountain Rescue Unit is an all-volunteer wilderness search and rescue (SAR) unit, based in the San Francisco Bay Area. We search for and assist people who are lost or stranded anywhere outdoors in California."
+    paragraph = "BAMRU is an independent, 501(c)(3) non-profit organization (Federal ID 23-7098709) with over 45 years of service to our community. BAMRU members are comprised of experienced outdoor enthusiasts and medical and outdoor professionals, and the diversity of our membership allows us to cross train and work safely and comfortably in challenging and austere wilderness situations."
     
   [params.feature]
     enable = true
     title = "Anytime, Anywhere, All Conditions"
     bgImage = "img/feature-bg.jpg"
-    content = "BAMRU is field deployable for up to 72 hours for anyone in harm’s way in all terrain, all weather and all seasons. Operations range from searches for missing or lost individuals in the high Sierra to communities affected by wildfires.  In addition to mountains, we search along coastal cliffs and in other rural and wilderness environments. Our team is composed of rock climbers, mountaineers, backpackers and backcountry skiers.  Our members are skilled to operate efficiently and safely in technical terrain on rock, snow and ice. BAMRU is an accredited member of the Mountain Rescue Association and a FEMA and California OES Type I search and rescue resource.  We are activated for operations by the San Mateo County Sheriff’s Office."
+    content = "BAMRU is field deployable for up to 72 hours for anyone in harm’s way in all terrain, all weather and all seasons.<br><br> Operations range from searches for missing or lost individuals in the high Sierra to communities affected by wildfires.  In addition to mountains, we search along coastal cliffs and in other rural and wilderness environments.<br><br> Our team is composed of rock climbers, mountaineers, backpackers and backcountry skiers.  Our members are skilled to operate efficiently and safely in technical terrain on rock, snow and ice.<br><br> BAMRU is an accredited member of the Mountain Rescue Association and a FEMA and California OES Type I search and rescue resource.  We are activated for operations by the San Mateo County Sheriff’s Office.<br><br>"
   
     [params.feature.button]
       caption = "What does BAMRU do?"
@@ -99,7 +99,7 @@ theme = "airspace-hugo"
     enable = false
     bgImage = "img/call-to-action-bg.jpg"
     title = "Get Involved"
-    paragraph = "BAMRU serves our community by searching for those lost or injured in the wilderness. The team consists of volunteers who train for hundreds of hours each year to operate under stressful and rapidly changing weather and circumstances. While each member does not attend every operation, being on the team requires a significant time commitment and some flexibility with job and family responsibilities. If you are interested in joining the team, attend one of our meetings, which are open for guests."
+    paragraph = "BAMRU serves our community by searching for those lost or injured in the wilderness. The team consists of volunteers who train for hundreds of hours each year to operate under stressful and rapidly changing weather and circumstances. While each member does not attend every operation, being on the team requires a significant time commitment and some flexibility with job and family responsibilities.<br><br> If you are interested in joining the team, attend one of our meetings, which are open for guests.<br><br>"
     [params.call.button]
       url = "/join"
       text = "Learn how to apply"

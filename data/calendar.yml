@@ -2,14 +2,18 @@ enable: true
 title: Meetings and trainings
 subtitle: >
   BAMRU monthly General Meetings are where members discuss recent and future Unit activities, including trainings and missions. General Meetings are open to the public, generally on the third Monday of every month.  [See calendar for dates]. We share our expertise and learn from our experiences.  Potential applicants are encouraged to attend as many meetings as possible to get to know us and vice versa. 
-  BAMRU also has monthly trainings throughout the year to reinforce member skills and train our first-year cohort.  All trainings are led and taught by Unit members. Some trainings are open to guests under specific conditions - please see the guest policy. BAMRU-only trainings advance core competencies. See below for upcoming meetings and trainings and hover over trainings for more information.
+  <br><br>BAMRU also has monthly trainings throughout the year to reinforce member skills and train our first-year cohort.  All trainings are led and taught by Unit members. Some trainings are open to guests under specific conditions - please see the guest policy. BAMRU-only trainings advance core competencies. See below for upcoming meetings and trainings and hover over trainings for more information.
   Asterisks * mark the core program for first-year trainees.
 
 content:
 
 - name: Guest Policy
   text: >
-    Permission to participate in a BAMRU training is at the sole discretion of BAMRU.  'G' marks training events that are open to Guests. Selected BAMRU trainings are open to guests provided the guest has (1) attended the general meeting preceding the training, (2) completed Sheriff's Office waiver form and been sworn in by a designated Sheriff's official, and (3) been approved by that training leader. Some of the trainings have limited space for guests. All events and schedules are subject to change. 
+    <br>Permission to participate in a BAMRU training is at the sole discretion of BAMRU.  'G' marks training events that are open to Guests. Selected BAMRU trainings are open to guests provided the guest has:
+    <br>(1) attended the general meeting preceding the training,
+    <br>(2) completed Sheriff's Office waiver form and been sworn in by a designated Sheriff's official, and
+    <br>(3) been approved by that training leader.
+    <br><br>Some of the trainings have limited space for guests. All events and schedules are subject to change. 
 
 meetings:
 

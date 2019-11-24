@@ -21,7 +21,7 @@
         <div class="about-item">
           <i class="{{ .icon }}"></i>
           <h4>{{ .name }}</h4>
-          <p>{{ .text }}</p>
+          <p>{{ .text | safeHTML }}</p>
         </div>
       </div>
       {{ end }}

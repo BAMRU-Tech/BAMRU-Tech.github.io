@@ -6,7 +6,7 @@
       <div class="col-md-12">
         <div class="block">
           <h2>{{ .title }}</h2>
-          <p>{{ .paragraph }}</p>
+          <p>{{ .paragraph | safeHTML }}</p>
           {{ with .button }}
           <a class="btn btn-main btn-solid-border" href="{{ .url }}" >{{ .text }}</a>
           {{ end }}
