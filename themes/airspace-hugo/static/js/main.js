@@ -1,8 +1,9 @@
-$(document).ready(function () {
-
+$(window).on("load", function () {
 
 	$("#portfolio-contant-active").mixItUp();
+})
 
+$(document).ready(function () {
 
 	$("#testimonial-slider").owlCarousel({
 		paginationSpeed: 500,
