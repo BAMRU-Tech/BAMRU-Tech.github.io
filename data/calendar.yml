@@ -81,12 +81,16 @@ meetings:
 trainings:
 
  - title: Tracking
-   date: Jan 10
-   location: TBD
+   date: Jan 11
+   location: Nike Classroom, 17930 Lake Chabot Rd, Castro Valley, CA 94546
 
  - title: Snow Camping * G
    date: Jan 25
-   location: TBD
+   location: Carson Pass
+
+ - title: Tracking Practice
+   date: Feb 10
+   location: Nike Classroom, 17930 Lake Chabot Rd, Castro Valley, CA 94546
 
  - title: Guest Mock Search G
    date: Feb 22
@@ -108,6 +112,14 @@ trainings:
    date: Apr 18
    location: TBD
    desc: Intensive weekend training to orient prospective members on the basic skills required to operate effectively in search and rescue operations. Intended for people with no prior SAR experience. Attendance at SAR Basic is one of the requirements for application to become a Trainee member. Training open to guests, pending Leader approval.
+
+ - title: MLPI part 1 (Managing the Lost Person Incident)
+   date: Apr 25
+   location: TBD
+
+ - title: MLPI part 2 (Managing the Lost Person Incident)
+   date: May 2
+   location: TBD
 
  - title: Prospective Trainee Interviews
    date: May 2
@@ -131,11 +143,11 @@ trainings:
    location: TBD
    desc: An introduction to our extensive gear collection and where everything is stored in the trucks. Learn how to set up a mobile command post.
 
- - title: Purcell Prusik Skills Night *
-   date: May 27
+ - title: PRS Instructors Skills Night
+   date: Jun 3
    location: TBD
 
- - title: PRS Instructors Skills Night
+ - title: Purcell Prusik Skills Night *
    date: Jun 3
    location: TBD
 
@@ -201,4 +213,4 @@ trainings:
 
  - title: Makeup/Skills Weekend
    date: Dec 12
-   location: TBD
+   location: TBD (Reserved: Nike Classroom, 17930 Lake Chabot Rd, Castro Valley, CA 94546)
