@@ -72,9 +72,17 @@ trainings:
    date: Jan 25
    location: Carson Pass
 
+ - title: MRA Recert Training
+   date: Feb 1
+   location: Memorial Park, Huckleberry Flat #4
+
  - title: Tracking Practice
    date: Feb 10
    location: Nike Classroom, 17930 Lake Chabot Rd, Castro Valley, CA 94546
+
+ - title: NorCal MRA recert training
+   date: Feb 15
+   location: Marin Headlands
 
  - title: Guest Mock Search G
    date: Feb 22
@@ -83,6 +91,7 @@ trainings:
  - title: MRA Search and Tracking Reaccreditation
    date: Mar 7
    location: Camp Ronald McDonald, Mountain Center, 92561
+   desc: Hosted by Riverside
 
  - title: Snow Skills *
    date: Mar 21
@@ -91,6 +100,7 @@ trainings:
  - title: Snow Skills - Backup Weekend
    date: Mar 28
    location: TBD
+   desc: Hold this weekend in case the previous weekend is canceled due to weather.
 
  - title: SAR Basic * G
    date: Apr 18
@@ -108,6 +118,7 @@ trainings:
  - title: Prospective Trainee Interviews
    date: May 2
    location: Redwood City
+   desc: By invitation only
 
  - title: Intro to BAMRU *
    date: May 12
@@ -171,6 +182,7 @@ trainings:
  - title: Low Angle Skills Night *
    date: Sep 16
    location: TBD
+   desc: A skills night to get people comfortable running half a TTRS system in preparation for Basic Tech. Everyone will get a chance to run the system. Simple knot passes may/may not be included depending on time.
 
  - title: Basic Tech *
    date: Sep 26
@@ -180,6 +192,7 @@ trainings:
  - title: Advanced Tech
    date: Oct 16
    location: TBD
+   desc: This three day course covers advanced topics in building and operating technical rescue systems. High-angle rescue systems with greater exposure, such as guiding lines and high redirects will be taught and practiced.  To attend, you must have completed all your FM signoffs for technical rope.
 
  - title: Operations Leader (OL) Training
    date: Oct 24

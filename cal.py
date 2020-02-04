@@ -10,13 +10,11 @@ meetings = list(filter(lambda e: e.begin >= arrow.get('2020-01-01T00:00:00.00000
 print("meetings:")
 for e in meetings:
 	location = e.location
-	if (location.startswith("Nike")):
-		location = "East Bay Meeting"
-	if (location.startswith("Redwood")):
-		location = "Peninsula Meeting"
+	if ("Redwood City" in location):
+		location = "455 County Center, Room 101, Redwood City, CA 94063"
 	print("\n - title: {}\n   date: {}\n   location: {}".format(e.name, e.begin.to("America/Los_Angeles").format('MMM D'), location))
 
-desc = {
+d = {
 "SAR Basic * G" : "Intensive weekend training to orient prospective members on the basic skills required to operate effectively in search and rescue operations. Intended for people with no prior SAR experience. Attendance at SAR Basic is one of the requirements for application to become a Trainee member. Training open to guests, pending Leader approval.",
 "Navigation *" : "Navigation training and signoffs, concentrating on map and compass, gps and caltopo usage. Focusing on becoming an effective nav lead during operations. Prerequisite include ability to read topo maps and relate terrain features to topo maps.",
 "Gear and On-road Truck *" : "An introduction to our extensive gear collection and where everything is stored in the trucks. Learn how to set up a mobile command post.",
@@ -33,8 +31,11 @@ desc = {
 }
 
 print("\n\ntrainings:")
-trainings = list(filter(lambda e: e.begin >= arrow.get('2020-01-01T00:00:00.000000+07:00') and not e.name in ('Unit Meeting', ' Leadership'), c.timeline))
+trainings = list(filter(lambda e: e.begin >= arrow.get('2020-01-01T00:00:00.000000+07:00') and not any(x in e.name for x in ('Unit Meeting', ' Leadership', 'Holiday Party')), c.timeline))
 for e in trainings:
-	print("\n - title: {}\n   date: {}\n   location: {}".format(e.name, e.begin.format('MMM D'), e.location, e.description))
-	if e.name in desc:
-		print("   desc: {}".format(desc[e.name]))
+	print("\n - title: {}\n   date: {}\n   location: {}".format(e.name, e.begin.format('MMM D'), e.location.replace(":", "")))
+	desc = " ".join((filter(lambda l: not l.startswith(("Leader(s)", "This event has", "Join: https://hangouts")), e.description.splitlines()))).strip()
+	if desc:
+		print("   desc: {}".format(desc))
+	elif e.name in d:
+		print("   desc: {}".format(d[e.name]))
