@@ -14,7 +14,7 @@ for e in meetings:
 		location = "East Bay Meeting"
 	if (location.startswith("Redwood")):
 		location = "Peninsula Meeting"
-	print("\n - title: {}\n   date: {}\n   location: {}".format(e.name, e.begin.format('MMM D'), location))
+	print("\n - title: {}\n   date: {}\n   location: {}".format(e.name, e.begin.to("America/Los_Angeles").format('MMM D'), location))
 
 desc = {
 "SAR Basic * G" : "Intensive weekend training to orient prospective members on the basic skills required to operate effectively in search and rescue operations. Intended for people with no prior SAR experience. Attendance at SAR Basic is one of the requirements for application to become a Trainee member. Training open to guests, pending Leader approval.",
