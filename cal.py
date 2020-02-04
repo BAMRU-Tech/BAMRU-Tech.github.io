@@ -6,7 +6,7 @@ import arrow
 with open("basic.ics") as f:
 	c = Calendar(f.read())
 
-meetings = list(filter(lambda e: e.begin >= arrow.get('2020-01-01T00:00:00.000000+07:00') and ('Unit Meeting' in e.name or ' Leadership' in e.name), c.timeline))
+meetings = list(filter(lambda e: e.begin >= arrow.get('2020-01-01T00:00:00.000000+07:00') and e.name in ('Unit Meeting'), c.timeline))
 print("meetings:")
 for e in meetings:
 	location = e.location
@@ -33,10 +33,8 @@ desc = {
 }
 
 print("\n\ntrainings:")
-trainings = list(filter(lambda e: e.begin >= arrow.get('2020-01-01T00:00:00.000000+07:00') and not ('Unit Meeting' in e.name or ' Leadership' in e.name), c.timeline))
+trainings = list(filter(lambda e: e.begin >= arrow.get('2020-01-01T00:00:00.000000+07:00') and not e.name in ('Unit Meeting', ' Leadership'), c.timeline))
 for e in trainings:
 	print("\n - title: {}\n   date: {}\n   location: {}".format(e.name, e.begin.format('MMM D'), e.location, e.description))
 	if e.name in desc:
 		print("   desc: {}".format(desc[e.name]))
-
-
