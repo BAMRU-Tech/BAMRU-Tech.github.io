@@ -17,12 +17,16 @@ theme = "airspace-hugo"
       weight = 3
       name = "Services"
       url = "/services"
-      [[menu.header]]
+    [[menu.header]]
       weight = 4
+      name = "Calendar"
+      url = "/calendar"
+    [[menu.header]]
+      weight = 5
       name = "Join"
       url = "/join"
     [[menu.header]]
-      weight = 5
+      weight = 6
       name = "Meet Us"
       url = "/meet"
 
@@ -32,34 +36,30 @@ theme = "airspace-hugo"
       url = "/donate"
     [[menu.footer]]
       weight = 2
-      name = "Calendar"
-      url = "/calendar"
-    [[menu.footer]]
-      weight = 3
       name = "Contact us"
       url = "/contact"
     [[menu.footer]]
-      weight = 4
+      weight = 3
       name = "Partners"
       url = "/partners"
     [[menu.footer]]
-      weight = 5
+      weight = 4
       name = "Facebook"
       url = "https://www.facebook.com/Bay-Area-Mountain-Rescue-Unit-BAMRU-285355628178842/"
     [[menu.footer]]
-      weight = 6
+      weight = 5
       name = "LinkedIn"
       url = "https://www.linkedin.com/company/bamru/"
     [[menu.footer]]
-      weight = 7
+      weight = 6
       name = "Twitter"
       url = "https://twitter.com/BAMRUorg/"
     [[menu.footer]]
-      weight = 8
+      weight = 7
       name = "Instagram"
       url = "https://www.instagram.com/bamru/"
 #    [[menu.footer]]
-#      weight = 9
+#      weight = 8
 #      name = "Blog"
 #      url = "https://bamru.blogspot.com/"
 
