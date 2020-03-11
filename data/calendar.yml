@@ -14,6 +14,10 @@ content:
     <br>(2) completed Sheriff's Office waiver form and been sworn in by a designated Sheriff's official, and
     <br>(3) been approved by that training leader.
     <br><br>Some of the trainings have limited space for guests. All events and schedules are subject to change. 
+    <br><br>
+    <b><p style="background-color: #FFFF00">
+    In the wake of COVID-19, please take special note to whether the events on the calendar below have been changed, postponed or cancelled.
+    </p></b>
 
 meetings:
 
@@ -27,11 +31,13 @@ meetings:
 
  - title: Unit Meeting
    date: Mar 16
-   location: 455 County Center, Room 101, Redwood City, CA 94063
+   location: Virtual Meeting, for invitation, email recruiting@bamru.org
+   mark: true
 
  - title: Unit Meeting
    date: Apr 6
-   location: Nike Classroom, 17930 Lake Chabot Rd, Castro Valley, CA 94546
+   location: Virtual Meeting, for invitation, email recruiting@bamru.org
+   mark: true
 
  - title: Unit Meeting
    date: May 18

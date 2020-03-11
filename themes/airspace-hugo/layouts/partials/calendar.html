@@ -43,7 +43,7 @@
             <i class="{{ .icon }}"></i>
             <table width="100%">
               <tr>
-                <td width="70%"><b><a href="/meet/">{{ .title }}</a></b>, {{ .location }}</td>
+                <td width="70%" {{ if .mark }} style="background-color: #FFFF00" {{ end }}><b><a href="/meet/">{{ .title }}</a></b>, {{ .location }}</td>
                 <td width="30%"> {{ .date }} </td>
               </tr>
             </table>
