@@ -43,7 +43,8 @@
             <i class="{{ .icon }}"></i>
             <table width="100%">
               <tr>
-                <td width="70%"{{ if .mark }} style="background-color: #FFFF00" {{ end }}><b><a href="/meet/">{{ .title }}</a></b>, {{ .location }}</td>
+                <td width="70%"{{ if .mark }} style="background-color: #FFFF00" {{ end }}>
+                  <b><a href="/meet/">{{ .title }}</a></b>, {{ .location }}</td>
                 <td width="30%"> {{ .date }} </td>
               </tr>
             </table>
@@ -65,7 +66,10 @@
               <tr>
                 <td width="70%">
                   {{ if .desc }} <details><summary style="color:#ff5533;"> {{ end }}
-                  <b>{{ .title }},</b> {{ .location }}
+                  <b>{{ .title }},</b>
+                  {{ if .mark }}<b style='background-color: #FFFF00'> {{ end }}
+                    {{ .location }}
+                  {{ if .mark }}</b> {{ end }}
                   {{ if .desc }} </summary> {{ .desc }} </details> {{ end }}
                 </td>
                 <td width="30%">{{ .date }} </td>
