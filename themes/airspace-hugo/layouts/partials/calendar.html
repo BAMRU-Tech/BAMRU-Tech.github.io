@@ -67,7 +67,7 @@
         <hr>
         <div>
           <p>
-            As BAMRU operates under the San Mateo County Sheriff's Office, we work under their guidance on when we can resume training. We will post training dates once we are cleared to do so.
+            Weekend trainings are typically full days (8am to 6pm, plus travel time to training site). Weekday trainings are typically evenings only (approximately 7pm to 10pm) and will likely be virtual.
         </div>
         <!-- training event ----------------------------------->
         {{ range .Site.Data.calendar.trainings }}
@@ -78,7 +78,7 @@
               <tr>
                 <td width="70%">
                   {{ if .desc }} <details><summary style="color:#ff5533;"> {{ end }}
-                  <b>{{ .title }},</b>
+                  <b>{{ .title }}</b>
                   {{ if .mark }}<b style='background-color: #FFFF00'> {{ end }}
                     {{ .location }}
                   {{ if .mark }}</b> {{ end }}

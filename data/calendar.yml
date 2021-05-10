@@ -15,9 +15,6 @@ content:
     <br>(3) been approved by that training leader.
     <br><br>Some of the trainings have limited space for guests. All events and schedules are subject to change. 
     <br><br>
-    <b><p style="background-color: #FFFF00">
-    In the wake of COVID-19, please take special note to whether the events on the calendar below have been changed, postponed or cancelled.
-    </p></b>
 
 meetings:
 
@@ -71,3 +68,59 @@ trainings:
 # - title: Tracking
 #   date: Jan 11
 #   location: Nike Classroom, 17930 Lake Chabot Rd, Castro Valley, CA 94546
+
+
+ - title: Tech Rescue Practice Day
+   date: May 22/23
+
+ - title: Mock Search
+   date: June 26
+   desc: Guest friendly, and required for any 2021 Applicants who have not already attended a BAMRU training
+
+ - title: TBD (BAMRU only)
+   date: June 27
+
+ - title: TBD (possibly one day guest friendly)
+   date: July 24/25
+
+ - title: SAR basic
+   date: August 21/22
+   desc: Open to guests who have attended at least one prior BAMRU training, and MANDATORY FOR 2021 Applicants
+
+ - title: 2021 Cohort Applications due from Guests
+   date: August 23
+   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+
+ - title: Interviews with 2021 Cohort Applicants
+   date: August 28/29
+   desc: Mandatory for Guests invited to interview
+
+ - title: New Trainee Onboarding
+   date: September 8
+   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+
+ - title: Navigation, Classroom Portion
+   date: September 15
+   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+
+ - title: Navigation + Gear/Truck Familiarization
+   date: September 18/19
+   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+
+ - title: Personal Rock Skills
+   date: October 16/17
+   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+
+ - title: Tracking, Classroom Portion
+   date: November 10
+   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+
+ - title: Low Angle Systems + Tracking
+   date: November 13/14
+   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+
+ - title: TBD (possibly makeup or skills day)
+   date: December 11/12
+   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+
+
