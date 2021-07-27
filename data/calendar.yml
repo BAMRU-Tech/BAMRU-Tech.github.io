@@ -77,13 +77,13 @@ trainings:
    date: June 26
    desc: Guest friendly, and required for any 2021 Applicants who have not already attended a BAMRU training
 
- - title: TBD (BAMRU only)
-   date: June 27
+ - title: Medical G
+   date: July 24
 
- - title: TBD (possibly one day guest friendly)
-   date: July 24/25
+ - title: Tech Rescue
+   date: July 25
 
- - title: SAR basic G
+ - title: SAR Basic G
    date: August 21/22
    desc: Open to guests who have attended at least one prior BAMRU training, and MANDATORY FOR 2021 Applicants
 
@@ -103,8 +103,12 @@ trainings:
    date: September 15
    desc: Mandatory for the new cohort accepted from the 2021 Applicants
 
- - title: Navigation + Gear/Truck Familiarization *
-   date: September 18/19
+ - title: Navigation *
+   date: September 18
+   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+
+ - title: Gear/Truck Familiarization *
+   date: September 19
    desc: Mandatory for the new cohort accepted from the 2021 Applicants
 
  - title: Personal Rock Skills *
