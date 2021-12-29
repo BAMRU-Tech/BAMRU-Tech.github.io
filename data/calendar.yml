@@ -16,119 +16,180 @@ content:
     <br><br>Some of the trainings have limited space for guests. All events and schedules are subject to change. 
     <br><br>
 
+
+year:  2022
 meetings:
 
  - title: Unit Meeting
+   date: Jan 10
    location: Virtual
-   date: January 11
 
  - title: Unit Meeting
+   date: Feb 7
    location: Virtual
-   date: February 8
 
  - title: Unit Meeting
+   date: Mar 14
    location: Virtual
-   date: March 8
 
  - title: Unit Meeting
+   date: Apr 18
    location: Virtual
-   date: April 12
 
  - title: Unit Meeting
+   date: May 16
    location: Virtual
-   date: May 10
 
  - title: Unit Meeting
+   date: Jun 20
    location: Virtual
-   date: June 14
 
  - title: Unit Meeting
+   date: Jul 18
    location: Virtual
-   date: July 12
 
  - title: Unit Meeting
+   date: Aug 15
    location: Virtual
-   date: August 9
 
  - title: Unit Meeting
+   date: Sep 19
    location: Virtual
-   date: Septeber 13
 
  - title: Unit Meeting
+   date: Oct 17
    location: Virtual
-   date: October 4
 
  - title: Unit Meeting
+   date: Nov 7
    location: Virtual
-   date: November 8
 
 
 trainings:
 
-# - title: Tracking
-#   date: Jan 11
-#   location: Nike Classroom, 17930 Lake Chabot Rd, Castro Valley, CA 94546
+ - title: Technical Rock Recert Practice 1
+   date: Jan 8-9
+   location: Mount Diablo
 
+ - title: DO Skills Night
+   date: Jan 12
+   location: Virtual
 
- - title: Tech Rescue Practice Day
-   date: May 22/23
+ - title: Snow Camping * G
+   date: Jan 22-23
+   location: TBD
+
+ - title: Technical Rock Recert Skills Night 1
+   date: Jan 26
+   location: TBD
+
+ - title: Snow Skills *
+   date: Feb 12-13
+   location: TBD
+
+ - title: Technical Rock Recert Skills Night 2
+   date: Feb 16
+   location: TBD
+
+ - title: Technical Rock Recert Practice 2
+   date: Feb 19-21
+   location: TBD
+
+ - title: Technical Rock Recert Practice BACKUP
+   date: Feb 26-27
+   location: TBD
+
+ - title: MRA California Region - Technical Rock Reaccreditation
+   date: Mar 5
+   location: Joshua Tree National Park
+
+ - title: Snow Tech Evolutions / Snow Skills backup
+   date: Mar 19-20
+   location: TBD
+
+ - title: Tracking *
+   date: Apr 23
+   location: TBD
+
+ - title: Medical Skills G
+   date: Apr 24
+   location: TBD
+
+ - title: Advanced Technical Rescue
+   date: May 20-22
+   location: TBD
+
+ - title: County Mock Search
+   date: Jun 25
+   location: TBD
+   desc: Search exercise in collaboration with SMCSAR and possibly other San Mateo units
+
+ - title: Training TBD
+   date: Jun 26
+   location: TBD
 
  - title: Mock Search G
-   date: June 26
-   desc: Guest friendly, and required for any 2021 Applicants who have not already attended a BAMRU training
+   date: Jul 23
+   location: TBD
 
- - title: Medical G
-   date: July 24
+ - title: Sign Off Day
+   date: Jul 24
+   location: TBD
 
- - title: Tech Rescue
-   date: July 25
+ - title: SAR Basic * G
+   date: Aug 20-21
+   location: TBD
+   desc: Intensive weekend training to orient prospective members on the basic skills required to operate effectively in search and rescue operations. Intended for people with no prior SAR experience. Attendance at SAR Basic is one of the requirements for application to become a Trainee member. Training open to guests, pending Leader approval.
 
- - title: SAR Basic G
-   date: August 21/22
-   desc: Open to guests who have attended at least one prior BAMRU training, and MANDATORY FOR 2021 Applicants
+ - title: Applications to join BAMRU due
+   date: Aug 22
+   location: n/a
 
- - title: 2021 Cohort Applications due from Guests *
-   date: August 23
-   desc: Mandatory for the new cohort accepted from the 2021 Applicants
-
- - title: Interviews with 2021 Cohort Applicants *
-   date: August 28/29
-   desc: Mandatory for Guests invited to interview
+ - title: Applicant Interviews
+   date: Aug 27-28
+   location: TBD
 
  - title: New Trainee Onboarding *
-   date: September 8
-   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+   date: Sep 7
+   location: TBD
 
- - title: Navigation, Classroom Portion *
-   date: September 15
-   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+ - title: Truck & Gear Familiarization *
+   date: Sep 10
+   location: TBD
 
  - title: Navigation *
-   date: September 18
-   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+   date: Sep 24
+   location: TBD
+   desc: Navigation training and signoffs, concentrating on map and compass, gps and caltopo usage. Focusing on becoming an effective nav lead during operations. Prerequisite include ability to read topo maps and relate terrain features to topo maps.
 
- - title: Gear/Truck Familiarization *
-   date: September 19
-   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+ - title: Low Angle Rescue *
+   date: Sep 25
+   location: TBD
+
+ - title: OL Training
+   date: Oct 15
+   location: TBD
 
  - title: Personal Rock Skills *
-   date: October 16/17
-   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+   date: Oct 22-23
+   location: TBD
 
- - title: Low Angle Skills Night *
-   date: November 3
-   desc: Mandatory for the new cohort accepted from the 2021 Applicants
-
- - title: Low Angle Skills Night *
-   date: November 10
-   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+ - title: Low Angle Skills Night
+   date: Nov 2
+   location: TBD
 
  - title: Basic Technical Rescue *
-   date: November 13/14
-   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+   date: Nov 12-13
+   location: TBD
 
- - title: TBD (possibly makeup or skills day) *
-   date: December 11/12
-   desc: Mandatory for the new cohort accepted from the 2021 Applicants
+ - title: DO Skills Night *
+   date: Nov 30
+   location: TBD
 
+ - title: Training TBD
+   date: Dec 10
+   location: TBD
 
+ - title: Training TBD
+   date: Dec 11
+   location: TBD
