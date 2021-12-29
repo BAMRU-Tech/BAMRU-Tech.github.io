@@ -1,7 +1,7 @@
 enable: true
 title: Meetings and trainings
 subtitle: >
-  BAMRU monthly General Meetings are where members discuss recent and future Unit activities, including trainings and missions. General Meetings are open to the public, generally on the third Monday of every month.  [See calendar for dates]. We share our expertise and learn from our experiences.  Potential applicants are encouraged to attend as many meetings as possible to get to know us and vice versa. 
+  BAMRU monthly General Meetings are where members discuss recent and future Unit activities, including trainings and missions. General Meetings are open to the public, generally on the third Monday of every month.  [See calendar for dates.] We share our expertise and learn from our experiences.  Potential applicants are encouraged to attend as many meetings as possible to get to know us and vice versa.
   <br><br>BAMRU also has monthly trainings throughout the year to reinforce member skills and train our first-year cohort.  All trainings are led and taught by Unit members. Some trainings are open to guests under specific conditions - please see the guest policy. BAMRU-only trainings advance core competencies. See below for upcoming meetings and trainings and hover over trainings for more information.
   Asterisks * mark the core program for first-year trainees.
 
@@ -13,7 +13,7 @@ content:
     <br>(1) attended the general meeting preceding the training,
     <br>(2) completed Sheriff's Office waiver form and been sworn in by a designated Sheriff's official, and
     <br>(3) been approved by that training leader.
-    <br><br>Some of the trainings have limited space for guests. All events and schedules are subject to change. 
+    <br><br>Some of the trainings have limited space for guests. All events and schedules are subject to change.
     <br><br>
 
 
@@ -78,6 +78,7 @@ trainings:
  - title: Snow Camping * G
    date: Jan 22-23
    location: TBD
+   desc: Mandatory for the 2021 cohort. Open to guests with leader's approval.
 
  - title: Technical Rock Recert Skills Night 1
    date: Jan 26
@@ -86,6 +87,7 @@ trainings:
  - title: Snow Skills *
    date: Feb 12-13
    location: TBD
+   desc: Mandatory for the 2021 cohort.
 
  - title: Technical Rock Recert Skills Night 2
    date: Feb 16
@@ -110,10 +112,12 @@ trainings:
  - title: Tracking *
    date: Apr 23
    location: TBD
+   desc: Mandatory for the 2021 cohort.
 
  - title: Medical Skills G
    date: Apr 24
    location: TBD
+   desc: Open to guests with leader's approval.
 
  - title: Advanced Technical Rescue
    date: May 20-22
@@ -131,6 +135,7 @@ trainings:
  - title: Mock Search G
    date: Jul 23
    location: TBD
+   desc: Open to guests with leader's approval.
 
  - title: Sign Off Day
    date: Jul 24
@@ -139,32 +144,36 @@ trainings:
  - title: SAR Basic * G
    date: Aug 20-21
    location: TBD
-   desc: Intensive weekend training to orient prospective members on the basic skills required to operate effectively in search and rescue operations. Intended for people with no prior SAR experience. Attendance at SAR Basic is one of the requirements for application to become a Trainee member. Training open to guests, pending Leader approval.
+   desc: MANDATORY for 2022 Applicants.
 
- - title: Applications to join BAMRU due
+ - title: 2022 Cohort Applications due from Guests
    date: Aug 22
    location: n/a
 
- - title: Applicant Interviews
+ - title: Interviews with 2021 Cohort Applicants
    date: Aug 27-28
    location: TBD
+   desc: Mandatory for Guests invited to interview
 
  - title: New Trainee Onboarding *
    date: Sep 7
    location: TBD
+   desc: Mandatory for the 2022 cohort.
 
  - title: Truck & Gear Familiarization *
    date: Sep 10
    location: TBD
+   desc: Mandatory for the 2022 cohort.
 
  - title: Navigation *
    date: Sep 24
    location: TBD
-   desc: Navigation training and signoffs, concentrating on map and compass, gps and caltopo usage. Focusing on becoming an effective nav lead during operations. Prerequisite include ability to read topo maps and relate terrain features to topo maps.
+   desc: Mandatory for the 2022 cohort.
 
  - title: Low Angle Rescue *
    date: Sep 25
    location: TBD
+   desc: Mandatory for the 2022 cohort.
 
  - title: OL Training
    date: Oct 15
@@ -173,6 +182,7 @@ trainings:
  - title: Personal Rock Skills *
    date: Oct 22-23
    location: TBD
+   desc: Mandatory for the 2022 cohort.
 
  - title: Low Angle Skills Night
    date: Nov 2
@@ -181,10 +191,12 @@ trainings:
  - title: Basic Technical Rescue *
    date: Nov 12-13
    location: TBD
+   desc: Mandatory for the 2022 cohort.
 
  - title: DO Skills Night *
    date: Nov 30
    location: TBD
+   desc: Mandatory for the 2022 cohort.
 
  - title: Training TBD
    date: Dec 10
