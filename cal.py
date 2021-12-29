@@ -2,14 +2,59 @@ from ics import Calendar
 import requests
 import arrow
 
-#url = "https://calendar.google.com/calendar/ical/bamru.calendar%40gmail.com/public/basic.ics"
-with open("basic.ics") as f:
-	c = Calendar(f.read())
+YEAR = '2022'
+START_DATE = YEAR + '-01-01T00:00:00.000000+07:00'
 
-meetings = list(filter(lambda e: e.begin >= arrow.get('2020-01-01T00:00:00.000000+07:00') and e.name in ('Unit Meeting'), c.timeline))
+url = "https://calendar.google.com/calendar/ical/bamru.org_4ildsm23sg6kq9bdso7f1r6g78%40group.calendar.google.com/public/basic.ics"
+resp = requests.get(url)
+resp.raise_for_status()
+ical = resp.text
+c = Calendar(ical)
+
+print("""
+enable: true
+title: Meetings and trainings
+subtitle: >
+  BAMRU monthly General Meetings are where members discuss recent and future Unit activities, including trainings and missions. General Meetings are open to the public, generally on the third Monday of every month.  [See calendar for dates.] We share our expertise and learn from our experiences.  Potential applicants are encouraged to attend as many meetings as possible to get to know us and vice versa.
+  <br><br>BAMRU also has monthly trainings throughout the year to reinforce member skills and train our first-year cohort.  All trainings are led and taught by Unit members. Some trainings are open to guests under specific conditions - please see the guest policy. BAMRU-only trainings advance core competencies. See below for upcoming meetings and trainings and hover over trainings for more information.
+  Asterisks * mark the core program for first-year trainees.
+
+content:
+
+- name: Guest Policy
+  text: >
+    <br>Permission to participate in a BAMRU training is at the sole discretion of BAMRU.  'G' marks training events that are open to Guests. Selected BAMRU trainings are open to guests provided the guest has:
+    <br>(1) attended the general meeting preceding the training,
+    <br>(2) completed Sheriff's Office waiver form and been sworn in by a designated Sheriff's official, and
+    <br>(3) been approved by that training leader.
+    <br><br>Some of the trainings have limited space for guests. All events and schedules are subject to change.
+    <br><br>
+
+""".lstrip())
+
+print("year: ", YEAR)
+
+def format_date(e):
+	begin = e.begin
+	end = e.end
+	if e.all_day:
+		end = end.shift(days=-1)
+	else:
+		begin = begin.to("America/Los_Angeles")
+		end = end.to("America/Los_Angeles")
+	if begin.format('MMM D') != end.format('MMM D'):
+		if begin.month != end.month:
+			return begin.format('MMM D') + " - " + end.format('MMM D')
+		return begin.format('MMM D') + "-" + end.format('D')
+	return begin.format('MMM D')
+
+events = list(c.timeline.start_after(arrow.get(START_DATE)))
+meetings = [e for e in events if e.name in ('Unit Meeting')]
 print("meetings:")
 for e in meetings:
 	location = e.location
+	if location.lower() == "zoom":
+		location = "Virtual"
 	if ("Redwood City" in location):
 		location = "455 County Center, Room 101, Redwood City, CA 94063"
 	print("\n - title: {}\n   date: {}\n   location: {}".format(e.name, e.begin.to("America/Los_Angeles").format('MMM D'), location))
@@ -31,9 +76,12 @@ d = {
 }
 
 print("\n\ntrainings:")
-trainings = list(filter(lambda e: e.begin >= arrow.get('2020-01-01T00:00:00.000000+07:00') and not any(x in e.name for x in ('Unit Meeting', ' Leadership', 'Holiday Party')), c.timeline))
+trainings = [e for e in events if not any(x in e.name for x in ('Unit Meeting', 'Leadership Meeting', 'Holiday Party'))]
 for e in trainings:
-	print("\n - title: {}\n   date: {}\n   location: {}".format(e.name, e.begin.format('MMM D'), e.location.replace(":", "")))
+	location = e.location
+	if location.lower() == "zoom":
+		location = "Virtual"
+	print("\n - title: {}\n   date: {}\n   location: {}".format(e.name, format_date(e), location.replace(":", "")))
 	desc = " ".join((filter(lambda l: not l.startswith(("Leader(s)", "This event has", "Join: https://hangouts")), e.description.splitlines()))).strip()
 	if desc:
 		print("   desc: {}".format(desc))
