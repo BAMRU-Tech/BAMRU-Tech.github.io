@@ -55,6 +55,8 @@ for e in meetings:
 	location = e.location
 	if location.lower() == "zoom":
 		location = "Virtual"
+	if location.lower() == "n/a":
+		location = ""
 	if ("Redwood City" in location):
 		location = "455 County Center, Room 101, Redwood City, CA 94063"
 	print("\n - title: {}\n   date: {}\n   location: {}".format(e.name, e.begin.to("America/Los_Angeles").format('MMM D'), location))
