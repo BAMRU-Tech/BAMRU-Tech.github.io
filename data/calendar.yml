@@ -75,6 +75,11 @@ trainings:
    date: Jan 12
    location: Virtual
 
+ - title: OPL Skills Day
+   date: Jan 15
+   location: Iron Mountain Sno-Park
+   desc: Practice working with the Orange Plastic Litter in the snow
+
  - title: Snow Camping * G
    date: Jan 22-23
    location: TBD
@@ -118,6 +123,10 @@ trainings:
    date: Apr 24
    location: TBD
    desc: Open to guests with leader's approval.
+
+ - title: AHC Skills Night
+   date: May 11
+   location: Virtual
 
  - title: Advanced Technical Rescue
    date: May 20-22
