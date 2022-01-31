@@ -80,18 +80,18 @@ trainings:
    location: Iron Mountain Sno-Park
    desc: Practice working with the Orange Plastic Litter in the snow
 
- - title: Snow Camping * G
+ - title: Snow Camping *
    date: Jan 22-23
    location: TBD
    desc: Mandatory for the 2021 cohort. Open to guests with leader's approval.
 
  - title: Technical Rock Recert Skills Night 1
    date: Jan 26
-   location: TBD
+   location: County Garage
 
  - title: Snow Skills *
    date: Feb 12-13
-   location: TBD
+   location: Donner Summit
    desc: Mandatory for the 2021 cohort.
 
  - title: Technical Rock Recert Skills Night 2
@@ -110,9 +110,17 @@ trainings:
    date: Mar 5
    location: Joshua Tree National Park
 
+ - title: Swearing-In
+   date: Mar 15
+   location: Redwood City
+
  - title: Snow Tech Evolutions / Snow Skills backup
    date: Mar 19-20
    location: TBD
+
+ - title: Swearing-In
+   date: Mar 24
+   location: Redwood City
 
  - title: Tracking *
    date: Apr 23
