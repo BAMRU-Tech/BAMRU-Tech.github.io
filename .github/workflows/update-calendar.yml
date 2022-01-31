@@ -1,11 +1,7 @@
 name: update-calendar
 on:
-  push:
-    branches:
-      - sources
-  # switch to this once it appears to be working...
-  #schedule:
-  #  - cron: '0 * * * *'
+  schedule:
+    - cron: '0 * * * *'
 
 jobs:
   update_repo:
