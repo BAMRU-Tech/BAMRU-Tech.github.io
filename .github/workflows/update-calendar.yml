@@ -1,7 +1,8 @@
 name: update-calendar
 on:
-  schedule:
-    - cron: '0 * * * *'
+  push:
+    branches:
+      - sources
 
 jobs:
   update_repo:
@@ -21,18 +22,27 @@ jobs:
       - name: Update calendar
         run: python ${{ github.workspace }}/cal.py > ${{ github.workspace }}/data/calendar.yml
 
-      - name: Cancel if no changes
-        run: if git diff --quiet; then echo "no chages"; false; fi
+      - name: Detect changes
+        id: detect_changes
+        run: |
+          if git diff --quiet; then
+            echo "::set-output name=updated::false"
+          else
+            echo "::set-output name=updated::true"
+          fi
 
       - name: Setup Hugo
+        if: ${{ steps.detect_changes.updated == 'true' }}
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 0.86.0
 
       - name: Build
+        if: ${{ steps.detect_changes.updated == 'true' }}
         run: hugo
 
       - name: Commit
+        if: ${{ steps.detect_changes.updated == 'true' }}
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
@@ -41,6 +51,7 @@ jobs:
           git push origin sources
 
       - name: Deploy
+        if: ${{ steps.detect_changes.updated == 'true' }}
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
