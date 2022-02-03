@@ -113,14 +113,16 @@ trainings:
  - title: Swearing-In
    date: Mar 15
    location: Redwood City
+   desc: This is an opportunity for guests to be sworn in by the Sheriff's Office so that they can attend guest-friendly trainings.
 
- - title: Snow Tech Evolutions / Snow Skills backup
+ - title: Snow Tech Evolutions (or Snow Skills BACKUP)
    date: Mar 19-20
    location: TBD
 
  - title: Swearing-In
    date: Mar 24
    location: Redwood City
+   desc: This is an opportunity for guests to be sworn in by the Sheriff's Office so that they can attend guest-friendly trainings.
 
  - title: Tracking *
    date: Apr 23
