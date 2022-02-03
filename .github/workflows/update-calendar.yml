@@ -10,7 +10,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          ref: sources
+          ref: master
 
       - name: Setup Python
         uses: actions/setup-python@v2
