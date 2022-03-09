@@ -116,7 +116,7 @@ trainings:
    location: Redwood City
    desc: This is an opportunity for guests to be sworn in by the Sheriff's Office so that they can attend guest-friendly trainings.
 
- - title: Snow Tech Evolutions (or Snow Skills BACKUP)
+ - title: Snow Tech Evolutions
    date: Mar 19-20
    location: TBD
 
@@ -124,6 +124,10 @@ trainings:
    date: Mar 24
    location: Redwood City
    desc: This is an opportunity for guests to be sworn in by the Sheriff's Office so that they can attend guest-friendly trainings.
+
+ - title: Tallac Small Alpine
+   date: Mar 26-27
+   location: Taylor Creek Sno Park / Desolation Wilderness
 
  - title: Tracking *
    date: Apr 23
