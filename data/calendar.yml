@@ -1,244 +1,212 @@
-enable: true
-title: Meetings and trainings
-subtitle: >
-  BAMRU monthly General Meetings are where members discuss recent and future Unit activities, including trainings and missions. General Meetings are open to the public, generally on the third Monday of every month.  [See calendar for dates.] We share our expertise and learn from our experiences.  Potential applicants are encouraged to attend as many meetings as possible to get to know us and vice versa.
-  <br><br>BAMRU also has monthly trainings throughout the year to reinforce member skills and train our first-year cohort.  All trainings are led and taught by Unit members. Some trainings are open to guests under specific conditions - please see the guest policy. BAMRU-only trainings advance core competencies. See below for upcoming meetings and trainings and hover over trainings for more information.
-  Asterisks * mark the core program for first-year trainees.
-
 content:
-
 - name: Guest Policy
-  text: >
-    <br>Permission to participate in a BAMRU training is at the sole discretion of BAMRU.  'G' marks training events that are open to Guests. Selected BAMRU trainings are open to guests provided the guest has:
-    <br>(1) attended the general meeting preceding the training,
-    <br>(2) completed Sheriff's Office waiver form and been sworn in by a designated Sheriff's official, and
-    <br>(3) been approved by that training leader.
-    <br><br>Some of the trainings have limited space for guests. All events and schedules are subject to change.
-    <br><br>
+  text: '<br>Permission to participate in a BAMRU training is at the sole discretion
+    of BAMRU.  ''G'' marks training events that are open to Guests. Selected BAMRU
+    trainings are open to guests provided the guest has: <br>(1) attended the general
+    meeting preceding the training, <br>(2) completed Sheriff''s Office waiver form
+    and been sworn in by a designated Sheriff''s official, and <br>(3) been approved
+    by that training leader. <br><br>Some of the trainings have limited space for
+    guests. All events and schedules are subject to change. <br><br>
 
-
-year:  2022
+    '
+enable: true
 meetings:
+- date: Jan 10
+  location: Virtual
+  title: Unit Meeting
+- date: Feb 7
+  location: Virtual
+  title: Unit Meeting
+- date: Mar 14
+  location: Virtual
+  title: Unit Meeting
+- date: Apr 18
+  location: Virtual
+  title: Unit Meeting
+- date: May 16
+  location: Virtual
+  title: Unit Meeting
+- date: Jun 20
+  location: Zoom & In-Person at ROC
+  title: Unit Meeting
+- date: Jul 18
+  location: Virtual
+  title: Unit Meeting
+- date: Aug 15
+  location: Virtual
+  title: Unit Meeting
+- date: Sep 19
+  location: Virtual
+  title: Unit Meeting
+- date: Oct 17
+  location: Virtual
+  title: Unit Meeting
+- date: Nov 7
+  location: Virtual
+  title: Unit Meeting
+subtitle: 'BAMRU monthly General Meetings are where members discuss recent and future
+  Unit activities, including trainings and missions. General Meetings are open to
+  the public, generally on the third Monday of every month.  [See calendar for dates.]
+  We share our expertise and learn from our experiences.  Potential applicants are
+  encouraged to attend as many meetings as possible to get to know us and vice versa.
+  <br><br>BAMRU also has monthly trainings throughout the year to reinforce member
+  skills and train our first-year cohort.  All trainings are led and taught by Unit
+  members. Some trainings are open to guests under specific conditions - please see
+  the guest policy. BAMRU-only trainings advance core competencies. See below for
+  upcoming meetings and trainings and hover over trainings for more information. Asterisks
+  * mark the core program for first-year trainees.
 
- - title: Unit Meeting
-   date: Jan 10
-   location: Virtual
-
- - title: Unit Meeting
-   date: Feb 7
-   location: Virtual
-
- - title: Unit Meeting
-   date: Mar 14
-   location: Virtual
-
- - title: Unit Meeting
-   date: Apr 18
-   location: Virtual
-
- - title: Unit Meeting
-   date: May 16
-   location: Virtual
-
- - title: Unit Meeting
-   date: Jun 20
-   location: Zoom & In-Person at ROC
-
- - title: Unit Meeting
-   date: Jul 18
-   location: Virtual
-
- - title: Unit Meeting
-   date: Aug 15
-   location: Virtual
-
- - title: Unit Meeting
-   date: Sep 19
-   location: Virtual
-
- - title: Unit Meeting
-   date: Oct 17
-   location: Virtual
-
- - title: Unit Meeting
-   date: Nov 7
-   location: Virtual
-
-
+  '
+title: Meetings and trainings
 trainings:
+- date: Jan 8-9
+  location: Mount Diablo
+  title: Technical Rock Recert Practice 1
+- date: Jan 12
+  location: Virtual
+  title: DO Skills Night
+- date: Jan 15
+  desc: Practice working with the Orange Plastic Litter in the snow
+  location: Iron Mountain Sno-Park
+  title: OPL Skills Day
+- date: Jan 22-23
+  desc: Mandatory for the 2021 cohort. Open to guests with leader's approval.
+  location: TBD
+  title: Snow Camping *
+- date: Jan 26
+  location: County Garage
+  title: Technical Rock Recert Skills Night 1
+- date: Feb 12-13
+  desc: Mandatory for the 2021 cohort.
+  location: Donner Summit
+  title: Snow Skills *
+- date: Feb 16
+  location: SMC Garage
+  title: Technical Rock Recert Skills Night 2
+- date: Feb 19-21
+  location: Pinnacles Nat'l Park
+  title: Technical Rock Recert Practice 2
+- date: Feb 22
+  desc: Half of the SO-required Driver's Training
+  location: Virtual
+  title: SO Driver's Classroom
+- date: Mar 5
+  location: Joshua Tree National Park
+  title: MRA California Region - Technical Rock Reaccreditation
+- date: Mar 15
+  desc: This is an opportunity for guests to be sworn in by the Sheriff's Office so
+    that they can attend guest-friendly trainings.
+  location: Redwood City
+  title: Swearing-In
+- date: Mar 19
+  location: Snowshed Wall
+  title: Snow Sign-Off Day
+- date: Mar 24
+  desc: This is an opportunity for guests to be sworn in by the Sheriff's Office so
+    that they can attend guest-friendly trainings.
+  location: Redwood City
+  title: Swearing-In
+- date: Mar 26-27
+  location: Taylor Creek Sno Park / Desolation Wilderness
+  title: Tallac Small Alpine
+- date: Apr 23
+  desc: Mandatory for the 2021 cohort. Going from basic to advanced skills.
+  location: 1033 Castle Rock Rd, Walnut Creek, CA 94598 - Orchard Parking lot for
+    Castle Rock Regional Recreation Area
+  title: Tracking *
+- date: Apr 24
+  desc: Open to guests with leader's approval.
+  location: Huddart Park
+  title: Medical Skills G
+- date: May 11
+  location: Virtual
+  title: CANCELLED AHC Skills Night CANCELLED
+- date: May 20-22
+  location: Yosemite (TBD)
+  title: Advanced Technical Rescue
+- date: Jun 21
+  location: ROC
+  title: Final Swearing-In Opportunity for prospective 2022 Applicants
+- date: Jun 22
+  location: County garage
+  title: Technical Gear Testing
+- date: Jun 25
+  desc: Search exercise in collaboration with SMCSAR and possibly other San Mateo
+    units
+  location: Briefing 0800 at Long Ridge Open Space gate LR10 ( 37.2820, -122.14992
+    )
+  title: County Mock Search
+- date: Jun 25
+  desc: Search exercise in collaboration with SMCSAR and possibly other San Mateo
+    units
+  location: 37.2820, -122.14992
+  title: County Mock Search
+- date: Jun 26
+  desc: 'Training Goals: Personal rock practice, sign-off opportunities for trainees,
+    TTRS practice possible if there are enough participants / interest.  Training
+    plan: https://docs.google.com/document/d/18OGdmTWfF7YGMkLKnXEk90sa909I1Ti6g02NDq3OolE/'
+  location: Cragmont Rock Park, Berkeley
+  title: Personal Rock Skills Day
+- date: Jul 9
+  location: TBD
+  title: RESCHEDULED TBD SO Drivers Practical
+- date: Jul 23
+  desc: Open to guests with leader's approval.
+  location: TBD
+  title: Mock Search G
+- date: Jul 24
+  location: TBD
+  title: Sign Off Day
+- date: Aug 20-21
+  desc: MANDATORY for 2022 Applicants.
+  location: TBD
+  title: SAR Basic * G
+- date: Aug 22
+  location: n/a
+  title: 2022 Cohort Applications due from Guests
+- date: Aug 27-28
+  desc: Mandatory for Guests invited to interview.
+  location: TBD
+  title: Interviews with 2022 Cohort Applicants
+- date: Sep 7
+  desc: Mandatory for the 2022 cohort.
+  location: TBD
+  title: New Trainee Onboarding *
+- date: Sep 10
+  desc: Mandatory for the 2022 cohort.
+  location: TBD
+  title: Truck & Gear Familiarization *
+- date: Sep 24
+  desc: Mandatory for the 2022 cohort.
+  location: TBD
+  title: Navigation *
+- date: Sep 25
+  desc: Mandatory for the 2022 cohort.
+  location: TBD
+  title: Low Angle Rescue *
+- date: Oct 15
+  location: TBD
+  title: OL Training
+- date: Oct 22-23
+  desc: Mandatory for the 2022 cohort.
+  location: TBD
+  title: Personal Rock Skills *
+- date: Nov 2
+  location: TBD
+  title: Low Angle Skills Night
+- date: Nov 12-13
+  desc: Mandatory for the 2022 cohort.
+  location: TBD
+  title: Technical Rescue *
+- date: Nov 30
+  desc: Mandatory for the 2022 cohort.
+  location: TBD
+  title: DO Skills Night *
+- date: Dec 10
+  location: TBD
+  title: Training TBD
+- date: Dec 11
+  location: TBD
+  title: Training TBD
+year: '2022'
 
- - title: Technical Rock Recert Practice 1
-   date: Jan 8-9
-   location: Mount Diablo
-
- - title: DO Skills Night
-   date: Jan 12
-   location: Virtual
-
- - title: OPL Skills Day
-   date: Jan 15
-   location: Iron Mountain Sno-Park
-   desc: Practice working with the Orange Plastic Litter in the snow
-
- - title: Snow Camping *
-   date: Jan 22-23
-   location: TBD
-   desc: Mandatory for the 2021 cohort. Open to guests with leader's approval.
-
- - title: Technical Rock Recert Skills Night 1
-   date: Jan 26
-   location: County Garage
-
- - title: Snow Skills *
-   date: Feb 12-13
-   location: Donner Summit
-   desc: Mandatory for the 2021 cohort.
-
- - title: Technical Rock Recert Skills Night 2
-   date: Feb 16
-   location: SMC Garage
-
- - title: Technical Rock Recert Practice 2
-   date: Feb 19-21
-   location: Pinnacles Nat'l Park
-
- - title: SO Driver's Classroom
-   date: Feb 22
-   location: Virtual
-   desc: Half of the SO-required Driver's Training
-
- - title: MRA California Region - Technical Rock Reaccreditation
-   date: Mar 5
-   location: Joshua Tree National Park
-
- - title: Swearing-In
-   date: Mar 15
-   location: Redwood City
-   desc: This is an opportunity for guests to be sworn in by the Sheriff's Office so that they can attend guest-friendly trainings.
-
- - title: Snow Sign-Off Day
-   date: Mar 19
-   location: Snowshed Wall
-
- - title: Swearing-In
-   date: Mar 24
-   location: Redwood City
-   desc: This is an opportunity for guests to be sworn in by the Sheriff's Office so that they can attend guest-friendly trainings.
-
- - title: Tallac Small Alpine
-   date: Mar 26-27
-   location: Taylor Creek Sno Park / Desolation Wilderness
-
- - title: Tracking *
-   date: Apr 23
-   location: 1033 Castle Rock Rd, Walnut Creek, CA 94598 - Orchard Parking lot for Castle Rock Regional Recreation Area
-   desc: Mandatory for the 2021 cohort. Going from basic to advanced skills.
-
- - title: Medical Skills G
-   date: Apr 24
-   location: Huddart Park
-   desc: Open to guests with leader's approval.
-
- - title: CANCELLED AHC Skills Night CANCELLED
-   date: May 11
-   location: Virtual
-
- - title: Advanced Technical Rescue
-   date: May 20-22
-   location: Yosemite (TBD)
-
- - title: Final Swearing-In Opportunity for prospective 2022 Applicants
-   date: Jun 21
-   location: ROC
-
- - title: Technical Gear Testing
-   date: Jun 22
-   location: County garage
-
- - title: County Mock Search
-   date: Jun 25
-   location: Briefing 0800 at Long Ridge Open Space gate LR10 ( 37.2820, -122.14992 )
-   desc: Search exercise in collaboration with SMCSAR and possibly other San Mateo units
-
- - title: County Mock Search
-   date: Jun 25
-   location: 37.2820, -122.14992
-   desc: Search exercise in collaboration with SMCSAR and possibly other San Mateo units
-
- - title: RESCHEDULED TBD SO Drivers Practical
-   date: Jul 9
-   location: TBD
-
- - title: Mock Search G
-   date: Jul 23
-   location: TBD
-   desc: Open to guests with leader's approval.
-
- - title: Sign Off Day
-   date: Jul 24
-   location: TBD
-
- - title: SAR Basic * G
-   date: Aug 20-21
-   location: TBD
-   desc: MANDATORY for 2022 Applicants.
-
- - title: 2022 Cohort Applications due from Guests
-   date: Aug 22
-   location: n/a
-
- - title: Interviews with 2022 Cohort Applicants
-   date: Aug 27-28
-   location: TBD
-   desc: Mandatory for Guests invited to interview.
-
- - title: New Trainee Onboarding *
-   date: Sep 7
-   location: TBD
-   desc: Mandatory for the 2022 cohort.
-
- - title: Truck & Gear Familiarization *
-   date: Sep 10
-   location: TBD
-   desc: Mandatory for the 2022 cohort.
-
- - title: Navigation *
-   date: Sep 24
-   location: TBD
-   desc: Mandatory for the 2022 cohort.
-
- - title: Low Angle Rescue *
-   date: Sep 25
-   location: TBD
-   desc: Mandatory for the 2022 cohort.
-
- - title: OL Training
-   date: Oct 15
-   location: TBD
-
- - title: Personal Rock Skills *
-   date: Oct 22-23
-   location: TBD
-   desc: Mandatory for the 2022 cohort.
-
- - title: Low Angle Skills Night
-   date: Nov 2
-   location: TBD
-
- - title: Technical Rescue *
-   date: Nov 12-13
-   location: TBD
-   desc: Mandatory for the 2022 cohort.
-
- - title: DO Skills Night *
-   date: Nov 30
-   location: TBD
-   desc: Mandatory for the 2022 cohort.
-
- - title: Training TBD
-   date: Dec 10
-   location: TBD
-
- - title: Training TBD
-   date: Dec 11
-   location: TBD
