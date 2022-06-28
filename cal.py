@@ -1,6 +1,7 @@
 from ics import Calendar
-import requests
 import arrow
+import requests
+import yaml
 
 YEAR = '2022'
 START_DATE = YEAR + '-01-01T00:00:00.000000+07:00'
@@ -11,7 +12,7 @@ resp.raise_for_status()
 ical = resp.text
 c = Calendar(ical)
 
-print("""
+page_contents = yaml.safe_load("""
 enable: true
 title: Meetings and trainings
 subtitle: >
@@ -30,9 +31,9 @@ content:
     <br><br>Some of the trainings have limited space for guests. All events and schedules are subject to change.
     <br><br>
 
-""".lstrip())
+""")
 
-print("year: ", YEAR)
+page_contents["year"] = YEAR
 
 def format_date(e):
 	begin = e.begin
@@ -49,8 +50,9 @@ def format_date(e):
 	return begin.format('MMM D')
 
 events = list(c.timeline.start_after(arrow.get(START_DATE)))
+
+page_contents["meetings"] = []
 meetings = [e for e in events if e.name in ('Unit Meeting')]
-print("meetings:")
 for e in meetings:
 	location = e.location
 	if location.lower() == "zoom":
@@ -59,7 +61,11 @@ for e in meetings:
 		location = ""
 	if ("Redwood City" in location):
 		location = "455 County Center, Room 101, Redwood City, CA 94063"
-	print("\n - title: {}\n   date: {}\n   location: {}".format(e.name, e.begin.to("America/Los_Angeles").format('MMM D'), location))
+	page_contents["meetings"].append({
+		"title": e.name,
+		"date": e.begin.to("America/Los_Angeles").format('MMM D'),
+		"location": location,
+	})
 
 d = {
 "SAR Basic * G" : "Intensive weekend training to orient prospective members on the basic skills required to operate effectively in search and rescue operations. Intended for people with no prior SAR experience. Attendance at SAR Basic is one of the requirements for application to become a Trainee member. Training open to guests, pending Leader approval.",
@@ -77,15 +83,22 @@ d = {
 "Medical * G" : "Medical Skills Training is all about putting our skills and knowledge to use. BAMRU has an exciting medical skills training planned this year. Some highlights include guest lecture by Stanford's Wilderness Medicine Fellow, Skill labs with lots of hands on practice, and the BAMRU Medical Olympics where groups compete at a diverse set of wilderness scenarios. Training open to guests, pending Leader approval.",
 }
 
-print("\n\ntrainings:")
+page_contents["trainings"] = []
 trainings = [e for e in events if not any(x in e.name for x in ('Unit Meeting', 'Leadership Meeting', 'Holiday Party'))]
 for e in trainings:
 	location = e.location
 	if location.lower() == "zoom":
 		location = "Virtual"
-	print("\n - title: {}\n   date: {}\n   location: {}".format(e.name, format_date(e), location.replace(":", "")))
+	page_training = {
+		"title": e.name,
+		"date": format_date(e),
+		"location": location,
+	}
 	desc = " ".join((filter(lambda l: not l.startswith(("Leader(s)", "This event has", "Join: https://hangouts")), e.description.splitlines()))).strip()
 	if desc:
-		print("   desc: {}".format(desc))
+		page_training["desc"] = desc
 	elif e.name in d:
-		print("   desc: {}".format(d[e.name]))
+		page_training["desc"] = d[e.name]
+	page_contents["trainings"].append(page_training)
+
+print(yaml.dump(page_contents))
