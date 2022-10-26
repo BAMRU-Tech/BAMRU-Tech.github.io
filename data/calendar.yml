@@ -133,13 +133,13 @@ trainings:
 - date: Jun 25
   desc: Search exercise in collaboration with SMCSAR and possibly other San Mateo
     units
-  location: Briefing 0800 at Long Ridge Open Space gate LR10 ( 37.2820, -122.14992
-    )
+  location: 37.2820, -122.14992
   title: County Mock Search
 - date: Jun 25
   desc: Search exercise in collaboration with SMCSAR and possibly other San Mateo
     units
-  location: 37.2820, -122.14992
+  location: Briefing 0800 at Long Ridge Open Space gate LR10 ( 37.2820, -122.14992
+    )
   title: County Mock Search
 - date: Jun 26
   desc: 'Training Goals: Personal rock practice, sign-off opportunities for trainees,
@@ -212,7 +212,7 @@ trainings:
   location: Cragmont Rock Park, Berkeley
   title: Personal Rock Skills Day
 - date: Nov 2
-  location: TBD
+  location: 400 Middlefield Rd, Redwood City, CA 94063
   title: Low Angle Skills Night
 - date: Nov 12-13
   desc: Mandatory for the 2022 cohort.
