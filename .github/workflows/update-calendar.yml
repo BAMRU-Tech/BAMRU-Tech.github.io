@@ -34,9 +34,9 @@ jobs:
         id: detect_changes
         run: |
           if git diff --quiet; then
-            echo "{updated}={false}" >> $GITHUB_OUTPUT
+            echo "updated=false" >> $GITHUB_OUTPUT
           else
-            echo "{updated}={true}" >> $GITHUB_OUTPUT
+            echo "updated=true" >> $GITHUB_OUTPUT
           fi
 
       - name: Commit
