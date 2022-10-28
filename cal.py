@@ -94,7 +94,7 @@ for e in trainings:
 		"date": format_date(e),
 		"location": location,
 	}
-	desc = " ".join((filter(lambda l: not l.startswith(("Leader(s)", "This event has", "Join: https://hangouts")), e.description.splitlines()))).strip()
+	desc = " ".join((filter(lambda l: not l.startswith(("Leader(s)", "This event has", "Join: https://hangouts")), (e.description or "").splitlines()))).strip()
 	if desc:
 		page_training["desc"] = desc
 	elif e.name in d:
