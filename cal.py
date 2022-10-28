@@ -3,8 +3,7 @@ import arrow
 import requests
 import yaml
 
-YEAR = '2022'
-START_DATE = YEAR + '-01-01T00:00:00.000000+07:00'
+TZ = "America/Los_Angeles"
 
 url = "https://calendar.google.com/calendar/ical/bamru.org_4ildsm23sg6kq9bdso7f1r6g78%40group.calendar.google.com/public/basic.ics"
 resp = requests.get(url)
@@ -33,27 +32,31 @@ content:
 
 """)
 
-page_contents["year"] = YEAR
-
 def format_date(e):
 	begin = e.begin
 	end = e.end
 	if e.all_day:
 		end = end.shift(days=-1)
 	else:
-		begin = begin.to("America/Los_Angeles")
-		end = end.to("America/Los_Angeles")
+		begin = begin.to(TZ)
+		end = end.to(TZ)
 	if begin.format('MMM D') != end.format('MMM D'):
 		if begin.month != end.month:
 			return begin.format('MMM D') + " - " + end.format('MMM D')
 		return begin.format('MMM D') + "-" + end.format('D')
 	return begin.format('MMM D')
 
-events = list(c.timeline.start_after(arrow.get(START_DATE)))
+start_of_day = arrow.now(TZ).replace(hour=0, minute=0, second=0)
+events = list(c.timeline.at(start_of_day)) + list(c.timeline.start_after(start_of_day))
 
 page_contents["meetings"] = []
 meetings = [e for e in events if e.name in ('Unit Meeting')]
+meeting_year = None
 for e in meetings:
+	y = e.begin.to(TZ).format("YYYY")
+	if meeting_year != y:
+		meeting_year = y
+		page_contents["meetings"].append({"year": meeting_year})
 	location = e.location
 	if location.lower() == "zoom":
 		location = "Virtual"
@@ -63,7 +66,7 @@ for e in meetings:
 		location = "455 County Center, Room 101, Redwood City, CA 94063"
 	page_contents["meetings"].append({
 		"title": e.name,
-		"date": e.begin.to("America/Los_Angeles").format('MMM D'),
+		"date": e.begin.to(TZ).format('MMM D'),
 		"location": location,
 	})
 
@@ -85,7 +88,12 @@ d = {
 
 page_contents["trainings"] = []
 trainings = [e for e in events if not any(x in e.name for x in ('Unit Meeting', 'Leadership Meeting', 'Holiday Party'))]
+training_year = None
 for e in trainings:
+	y = e.begin.to(TZ).format("YYYY")
+	if meeting_year != y:
+		meeting_year = y
+		page_contents["trainings"].append({"year": meeting_year})
 	location = e.location
 	if location.lower() == "zoom":
 		location = "Virtual"

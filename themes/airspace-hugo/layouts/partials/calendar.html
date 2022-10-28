@@ -34,7 +34,7 @@
 
       <!-- 2 col wrapper -->
       <div class="col-sm-6 col-md-6">
-        <h4>{{ .Site.Data.calendar.year }} General Meetings</h4>
+        <h4>General Meetings</h4>
         <hr>
         <div>
           <p>
@@ -45,17 +45,21 @@
         <div class="col-sm-12 col-md-12">
           <div class="calendar-item">
             <i class="{{ .icon }}"></i>
-            <table width="100%">
-              <tr>
-                <td width="70%">
-                  <b><a href="/meet/">{{ .title }}</a></b>, 
-                  {{ if .mark }}<b style='background-color: #FFFF00'> {{ end }}
-                    {{ .location }}
-                  {{ if .mark }}</b> {{ end }}
-                  </td>
-                <td width="30%"> {{ .date }} </td>
-              </tr>
-            </table>
+	    {{ if .year }}
+	      <h4>{{ .year }}</h4>
+	    {{ else }}
+              <table width="100%">
+                <tr>
+                  <td width="70%">
+                    <b><a href="/meet/">{{ .title }}</a></b>, 
+                    {{ if .mark }}<b style='background-color: #FFFF00'> {{ end }}
+                      {{ .location }}
+                    {{ if .mark }}</b> {{ end }}
+                    </td>
+                  <td width="30%"> {{ .date }} </td>
+                </tr>
+              </table>
+	    {{ end }}
           </div>
         </div>
         {{ end }}
@@ -63,7 +67,7 @@
 
 
       <div class="col-sm-6 col-md-6">
-        <h4>{{ .Site.Data.calendar.year }} Trainings</h4>
+        <h4>Trainings</h4>
         <hr>
         <div>
           <p>
@@ -74,19 +78,23 @@
         <div class="col-sm-12 col-md-12">
           <div class="calendar-item">
             <i class="{{ .icon }}"></i>
-            <table width="100%">
-              <tr>
-                <td width="70%">
-                  {{ if .desc }} <details><summary style="color:#ff5533;"> {{ end }}
-                  <b>{{ .title }}</b>
-                  {{ if .mark }}<b style='background-color: #FFFF00'> {{ end }}
-                    {{ .location }}
-                  {{ if .mark }}</b> {{ end }}
-                  {{ if .desc }} </summary> {{ .desc }} </details> {{ end }}
-                </td>
-                <td width="30%">{{ .date }} </td>
-              </tr>
-            </table>
+	    {{ if .year }}
+	      <h4>{{ .year }}</h4>
+	    {{ else }}
+              <table width="100%">
+                <tr>
+                  <td width="70%">
+                    {{ if .desc }} <details><summary style="color:#ff5533;"> {{ end }}
+                    <b>{{ .title }}</b>
+                    {{ if .mark }}<b style='background-color: #FFFF00'> {{ end }}
+                      {{ .location }}
+                    {{ if .mark }}</b> {{ end }}
+                    {{ if .desc }} </summary> {{ .desc }} </details> {{ end }}
+                  </td>
+                  <td width="30%">{{ .date }} </td>
+                </tr>
+              </table>
+            {{ end }}
           </div>
         </div>
         {{ end }}
