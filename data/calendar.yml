@@ -11,38 +11,43 @@ content:
     '
 enable: true
 meetings:
-- date: Jan 10
-  location: Virtual
-  title: Unit Meeting
-- date: Feb 7
-  location: Virtual
-  title: Unit Meeting
-- date: Mar 14
-  location: Virtual
-  title: Unit Meeting
-- date: Apr 18
-  location: Virtual
-  title: Unit Meeting
-- date: May 16
-  location: Virtual
-  title: Unit Meeting
-- date: Jun 20
-  location: Zoom & In-Person at ROC
-  title: Unit Meeting
-- date: Jul 18
-  location: Virtual
-  title: Unit Meeting
-- date: Aug 15
-  location: Virtual
-  title: Unit Meeting
-- date: Sep 19
-  location: Virtual
-  title: Unit Meeting
-- date: Oct 17
-  location: Virtual
-  title: Unit Meeting
+- year: '2022'
 - date: Nov 7
   location: Virtual
+  title: Unit Meeting
+- year: '2023'
+- date: Jan 23
+  location: TBD
+  title: Unit Meeting
+- date: Feb 20
+  location: TBD
+  title: Unit Meeting
+- date: Mar 20
+  location: TBD
+  title: Unit Meeting
+- date: Apr 17
+  location: TBD
+  title: Unit Meeting
+- date: May 15
+  location: TBD
+  title: Unit Meeting
+- date: Jun 12
+  location: TBD
+  title: Unit Meeting
+- date: Jul 17
+  location: TBD
+  title: Unit Meeting
+- date: Aug 14
+  location: TBD
+  title: Unit Meeting
+- date: Sep 18
+  location: TBD
+  title: Unit Meeting
+- date: Oct 16
+  location: TBD
+  title: Unit Meeting
+- date: Nov 13
+  location: TBD
   title: Unit Meeting
 subtitle: 'BAMRU monthly General Meetings are where members discuss recent and future
   Unit activities, including trainings and missions. General Meetings are open to
@@ -59,160 +64,13 @@ subtitle: 'BAMRU monthly General Meetings are where members discuss recent and f
   '
 title: Meetings and trainings
 trainings:
-- date: Jan 8-9
-  location: Mount Diablo
-  title: Technical Rock Recert Practice 1
-- date: Jan 12
-  location: Virtual
-  title: DO Skills Night
-- date: Jan 15
-  desc: Practice working with the Orange Plastic Litter in the snow
-  location: Iron Mountain Sno-Park
-  title: OPL Skills Day
-- date: Jan 22-23
-  desc: Mandatory for the 2021 cohort. Open to guests with leader's approval.
-  location: TBD
-  title: Snow Camping *
-- date: Jan 26
-  location: County Garage
-  title: Technical Rock Recert Skills Night 1
-- date: Feb 12-13
-  desc: Mandatory for the 2021 cohort.
-  location: Donner Summit
-  title: Snow Skills *
-- date: Feb 16
-  location: SMC Garage
-  title: Technical Rock Recert Skills Night 2
-- date: Feb 19-21
-  location: Pinnacles Nat'l Park
-  title: Technical Rock Recert Practice 2
-- date: Feb 22
-  desc: Half of the SO-required Driver's Training
-  location: Virtual
-  title: SO Driver's Classroom
-- date: Mar 5
-  location: Joshua Tree National Park
-  title: MRA California Region - Technical Rock Reaccreditation
-- date: Mar 15
-  desc: This is an opportunity for guests to be sworn in by the Sheriff's Office so
-    that they can attend guest-friendly trainings.
-  location: Redwood City
-  title: Swearing-In
-- date: Mar 19
-  location: Snowshed Wall
-  title: Snow Sign-Off Day
-- date: Mar 24
-  desc: This is an opportunity for guests to be sworn in by the Sheriff's Office so
-    that they can attend guest-friendly trainings.
-  location: Redwood City
-  title: Swearing-In
-- date: Mar 26-27
-  location: Taylor Creek Sno Park / Desolation Wilderness
-  title: Tallac Small Alpine
-- date: Apr 23
-  desc: Mandatory for the 2021 cohort. Going from basic to advanced skills.
-  location: 1033 Castle Rock Rd, Walnut Creek, CA 94598 - Orchard Parking lot for
-    Castle Rock Regional Recreation Area
-  title: Tracking *
-- date: Apr 24
-  desc: Open to guests with leader's approval.
-  location: Huddart Park
-  title: Medical Skills G
-- date: May 11
-  location: Virtual
-  title: CANCELLED AHC Skills Night CANCELLED
-- date: May 20-22
-  location: Yosemite (TBD)
-  title: Advanced Technical Rescue
-- date: Jun 21
-  location: ROC
-  title: Final Swearing-In Opportunity for prospective 2022 Applicants
-- date: Jun 22
-  location: County garage
-  title: Technical Gear Testing
-- date: Jun 25
-  desc: Search exercise in collaboration with SMCSAR and possibly other San Mateo
-    units
-  location: 37.2820, -122.14992
-  title: County Mock Search
-- date: Jun 25
-  desc: Search exercise in collaboration with SMCSAR and possibly other San Mateo
-    units
-  location: Briefing 0800 at Long Ridge Open Space gate LR10 ( 37.2820, -122.14992
-    )
-  title: County Mock Search
-- date: Jun 26
-  desc: 'Training Goals: Personal rock practice, sign-off opportunities for trainees,
-    TTRS practice possible if there are enough participants / interest.  Training
-    plan: https://docs.google.com/document/d/18OGdmTWfF7YGMkLKnXEk90sa909I1Ti6g02NDq3OolE/'
-  location: Cragmont Rock Park, Berkeley
-  title: Personal Rock Skills Day
-- date: Jul 9
-  location: TBD
-  title: RESCHEDULED TBD SO Drivers Practical
-- date: Jul 23
-  desc: Open to guests with leader's approval.
-  location: Huddart Park
-  title: Mock Search G
-- date: Jul 24
-  location: Redwood City Garage
-  title: TTRS Sign Off Day
-- date: Aug 20-21
-  desc: MANDATORY for 2022 Applicants.
-  location: Huddart Park
-  title: SAR Basic * G
-- date: Aug 22
-  location: n/a
-  title: 2022 Cohort Applications due from Guests
-- date: Aug 24 - Sep 1
-  desc: Mandatory for Guests invited to interview.
-  location: TBD
-  title: Interviews with 2022 Cohort Applicants
-- date: Sep 7
-  desc: Mandatory for the 2022 cohort.
-  location: Google Meet
-  title: New Trainee Onboarding *
-- date: Sep 10
-  desc: Mandatory for the 2022 cohort.
-  location: Redwood City ROC parking lot
-  title: Truck & Gear Familiarization *
-- date: Sep 21
-  desc: 'Zoom Details: Same as for Unit Meetings [Share with BAMRU Members + Guests]
-    Any one of the following options will suffice for joining the video conference:
-    Audio + Video (opt) on Web/Computer app/Phone app:  https://zoom.us/j/92244988331?pwd=SzU5bDd4NXFiQm1QcHZHbndlRWZiQT09  Install
-    the Zoom app in advance for a better experience  Audio-only one-tap mobile dial-in:
-    (select one while on mobile phone) +16699006833,,92244988331#   Meeting ID (if
-    asked to enter manually): 922 4498 8331 Password:  2580 (straight down the num
-    pad)'
-  location: Virtual
-  title: Navigation Pre Training
-- date: Sep 24
-  desc: 'Mandatory for the 2022 cohort.  Must also attend pre-training zoom call Wed,
-    Sept 21, Time: 1900-2100'
-  location: Monte Bello Open Space Preserve - Gate MB04
-  title: Navigation *
-- date: Sep 24
-  desc: 'Mandatory for the 2022 cohort.  Must also attend pre-training zoom call Wed,
-    Sept 21, Time: 1900-2100'
-  location: Monte Bello Open Space Preserve - Gate MB04
-  title: Navigation *
-- date: Sep 25
-  desc: Mandatory for the 2022 cohort.
-  location: Cragmont Park, Berkeley
-  title: Low Angle Rescue *
-- date: Oct 19
-  location: Thom's House
-  title: Purcell Prusik Skills Night
-- date: Oct 22-23
-  desc: Mandatory for the 2022 cohort.
-  location: Indian Springs Climbing Area
-  title: Personal Rock Skills *
+- year: '2022'
 - date: Oct 30
   desc: Practice your personal rock skills!
   location: Cragmont Rock Park, Berkeley
   title: Personal Rock Skills Day
 - date: Nov 2
-  location: 400 Middlefield Rd, Redwood City, CA 94063
+  location: County Garage
   title: Low Angle Skills Night
 - date: Nov 12-13
   desc: Mandatory for the 2022 cohort.
@@ -228,5 +86,52 @@ trainings:
 - date: Dec 11
   location: TBD
   title: Training TBD
-year: '2022'
+- date: Dec 14
+  location: Virtual
+  title: Mental Health Skills Night
+- year: '2023'
+- date: Jan 21-22
+  desc: Mandatory for the 2022 cohort. Mandatory for the Snow & Ice recert team.
+  location: TBD
+  title: Snow Skills *
+- date: Feb 18-19
+  desc: Mandatory for the 2022 cohort
+  location: TBD
+  title: Snow Camping *
+- date: Mar 25-26
+  desc: Mandatory for the 2022 cohort
+  location: TBD
+  title: Backup Snow Camping * / TBD
+- date: Apr 12
+  desc: Mandatory for the 2022 cohort
+  location: TBD
+  title: AHC Skills Night *
+- date: Apr 22
+  desc: Mandatory for the 2022 cohort
+  location: TBD
+  title: Tracking *
+- date: Apr 23
+  desc: Mandatory for the 2022 cohort
+  location: TBD
+  title: Medical *
+- date: May 20-21
+  desc: We will spend two days planning and executing the first operational period
+    of a search operation, in slow motion, in rugged terrain.
+  location: TBD
+  title: Search Management
+- date: Jun 24
+  location: TBD
+  title: Mock Search G
+- date: Jun 25
+  location: TBD
+  title: TBD / Signoff Day
+- date: Jul 22-23
+  location: TBD
+  title: TBD
+- date: Aug 19-20
+  location: TBD
+  title: SAR Basic G
+- date: Sep 6
+  location: TBD
+  title: Onboarding
 
