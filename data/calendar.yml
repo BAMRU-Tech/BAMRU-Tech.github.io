@@ -65,8 +65,10 @@ trainings:
   location: TBD
   title: Snow Skills *
 - date: Feb 4-5
-  location: TBD
-  title: Snow Rope Rescue (Joint)
+  desc: Part of the snow & ice recertification curriculum. Goal is for participants
+    to be well-versed on skills needed for the recert.
+  location: Snowshed Wall, Old 40 (39.317, -120.32)
+  title: Joint Snow Tech Rescue
 - date: Feb 11-12
   desc: Hold in case the Joint Snow Rope Rescue training gets cancelled due to weather.
   location: TBD
