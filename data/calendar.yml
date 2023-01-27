@@ -71,15 +71,15 @@ subtitle: 'BAMRU monthly General Meetings are where members discuss recent and f
 title: Meetings and trainings
 trainings:
 - year: '2023'
-- date: Feb 4-5
+- date: Feb 4
   desc: Part of the snow & ice recertification curriculum. Goal is for participants
     to be well-versed on skills needed for the recert.
-  location: Snowshed Wall, Old 40 (39.317, -120.32)
+  location: Snowshed Wall, Old 40
   title: Joint Snow Tech Rescue
-- date: Feb 11-12
+- date: Feb 11
   desc: Hold in case the Joint Snow Rope Rescue training gets cancelled due to weather.
   location: TBD
-  title: 'Backup: Snow Rope Rescue (Joint)'
+  title: 'Backup: Snow Tech Rescue'
 - date: Feb 18-19
   desc: Mandatory for the 2022 cohort
   location: TBD
