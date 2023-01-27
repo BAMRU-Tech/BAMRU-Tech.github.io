@@ -42,6 +42,19 @@ meetings:
 - date: Nov 6
   location: Virtual
   title: Unit Meeting
+- year: '2024'
+- date: Jan 22
+  location: TBA
+  title: Unit Meeting
+- date: Feb 26
+  location: TBA
+  title: Unit Meeting
+- date: Mar 18
+  location: TBA
+  title: Unit Meeting
+- date: Apr 15
+  location: TBA
+  title: Unit Meeting
 subtitle: 'BAMRU monthly General Meetings are where members discuss recent and future
   Unit activities, including trainings and missions. General Meetings are open to
   the public, generally on the third Monday of every month.  [See calendar for dates.]
@@ -57,6 +70,7 @@ subtitle: 'BAMRU monthly General Meetings are where members discuss recent and f
   '
 title: Meetings and trainings
 trainings:
+- year: '2023'
 - date: Feb 4-5
   desc: Part of the snow & ice recertification curriculum. Goal is for participants
     to be well-versed on skills needed for the recert.
@@ -109,4 +123,38 @@ trainings:
 - date: Sep 6
   location: TBD
   title: Onboarding
+- date: Sep 9
+  location: TBA
+  title: TBA *
+- date: Sep 23-24
+  location: TBA
+  title: TBA *
+- date: Oct 21-22
+  location: TBA
+  title: TBA *
+- date: Nov 11-12
+  location: TBA
+  title: TBA *
+- date: Dec 9-10
+  location: TBA
+  title: TBA
+- year: '2024'
+- date: Jan 6-7
+  location: TBA
+  title: TBA *
+- date: Jan 27-28
+  location: TBA
+  title: TBA *
+- date: Feb 10-11
+  location: TBA
+  title: TBA
+- date: Mar 2
+  location: TBA
+  title: 'MRA Reaccreditation: Snow & Ice'
+- date: Mar 23-24
+  location: TBA
+  title: TBA *
+- date: Apr 20-21
+  location: TBA
+  title: TBA *
 
