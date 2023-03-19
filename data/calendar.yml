@@ -70,7 +70,7 @@ trainings:
 - year: '2023'
 - date: Mar 25-26
   desc: '*part of the core curriculum'
-  location: TBD
+  location: Donner Summit
   title: Combined Snow Skills & Snow Camping *
 - date: Mar 27
   location: RWC Garage
@@ -102,8 +102,13 @@ trainings:
   location: TBD
   title: Tech Evolutions
 - date: Aug 19-20
+  desc: Intensive weekend training to orient prospective members on the basic skills
+    required to operate effectively in search and rescue operations. Intended for
+    people with no prior SAR experience. Attendance at SAR Basic is one of the requirements
+    for application to become a Trainee member. Training open to guests, pending Leader
+    approval.
   location: TBD
-  title: SAR Basic G
+  title: SAR Basic * G
 - date: Sep 6
   location: TBD
   title: Onboarding
