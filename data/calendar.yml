@@ -65,6 +65,9 @@ subtitle: 'BAMRU monthly General Meetings are where members discuss recent and f
 title: Meetings and trainings
 trainings:
 - year: '2023'
+- date: Apr 10
+  location: RWC Garage
+  title: Rope Skills Night
 - date: Apr 12
   desc: Mandatory for the 2022 cohort
   location: TBD
@@ -75,7 +78,7 @@ trainings:
   title: Tracking * G
 - date: Apr 23
   desc: '* core training curriculum'
-  location: TBD
+  location: ROC
   title: Medical *
 - date: Apr 29-30
   desc: Skin from Manzanita Lake to the bottom of Mt. Lassen on Saturday, and skin/slog
