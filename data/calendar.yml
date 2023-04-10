@@ -131,23 +131,48 @@ trainings:
   title: Onboarding
 - date: Sep 9
   location: TBA
-  title: TBA *
+  title: Gear & Truck *
 - date: Sep 16-17
   desc: Hold the date. To be announced.
   location: TBA
   title: Small Alpine
+- date: Sep 20
+  location: TBA
+  title: Purcell Prusik Skills Night
 - date: Sep 23-24
+  desc: This two day course covers general rock skills skill stations, scenarios,
+    and discussion of their application within the SAR community. Topics include anchors
+    (trad gear and natural protection), belaying, rappelling, basic self-rescue, jugging/ascending,
+    and personal emergency evac equipment with scenarios. Focus will be on both theory
+    and practice. Personal rock skills is a prerequisite for Basic Technical Training.
   location: TBA
-  title: TBA *
-- date: Oct 21-22
+  title: Personal Rock Skills (PRS) *
+- date: Oct 21
+  desc: Navigation training and signoffs, concentrating on map and compass, gps and
+    caltopo usage. Focusing on becoming an effective nav lead during operations. Prerequisite
+    include ability to read topo maps and relate terrain features to topo maps.
   location: TBA
-  title: TBA *
+  title: Navigation *
+- date: Oct 22
+  desc: We will focus on single line rescue systems as an introduction to the larger
+    world of technical rescue. Personal Rock Skills is required to attend this training.
+  location: TBA
+  title: Low Angle *
+- date: Nov 1
+  location: TBA
+  title: TTRS Skills Night
 - date: Nov 11-12
   location: TBA
-  title: TBA *
-- date: Dec 9-10
+  title: High Angle *
+- date: Dec 9
   location: TBA
-  title: TBA
+  title: On-Road Driver Training
+- date: Dec 10
+  location: TBA
+  title: Sign-off / Skills Day
+- date: Dec 13
+  location: TBA
+  title: Mental Health Skills Night
 - year: '2024'
 - date: Jan 6-7
   location: TBD
@@ -163,8 +188,17 @@ trainings:
   title: 'MRA Reaccreditation: Snow & Ice'
 - date: Mar 23-24
   location: TBA
-  title: TBA *
-- date: Apr 20-21
+  title: Snow Training Backup *
+- date: Apr 3
   location: TBA
-  title: TBA *
+  title: OL Training
+- date: Apr 10
+  location: TBA
+  title: OL Training
+- date: Apr 20
+  location: TBA
+  title: Tracking *
+- date: Apr 21
+  location: TBA
+  title: Medical *
 
