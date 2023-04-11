@@ -95,10 +95,10 @@ trainings:
   location: Mokelumne Wilderness
   title: Mokelumne Peak Small Alpine
 - date: Jun 24
-  location: TBD
+  location: TBA
   title: Mock Search G
 - date: Jun 25
-  location: TBD
+  location: TBA
   title: SMC SAR Joint Training
 - date: Jul 13-16
   desc: 4-day proposal takes the Hotlum-Bolam route with a plan for the summit. The
@@ -113,7 +113,7 @@ trainings:
   location: Yosemite NP
   title: Snow Creek Small Alpine
 - date: Jul 22-23
-  location: TBD
+  location: TBA
   title: Tech Evolutions
 - date: Aug 19-20
   desc: Intensive weekend training to orient prospective members on the basic skills
@@ -121,10 +121,10 @@ trainings:
     people with no prior SAR experience. Attendance at SAR Basic is one of the requirements
     for application to become a Trainee member. Training open to guests, pending Leader
     approval.
-  location: TBD
+  location: TBA
   title: SAR Basic * G
 - date: Sep 6
-  location: TBD
+  location: TBA
   title: Onboarding
 - date: Sep 9
   location: TBA
@@ -172,14 +172,14 @@ trainings:
   title: Mental Health Skills Night
 - year: '2024'
 - date: Jan 6-7
-  location: TBD
-  title: Snow Camping (tentative)*
+  location: TBA
+  title: Snow Camping *
 - date: Jan 27-28
-  location: TBD
-  title: Snow Skills (tentative)*
+  location: TBA
+  title: Snow Skills *
 - date: Feb 10-11
-  location: TBD
-  title: Snow Tech (tentative)
+  location: TBA
+  title: Snow Tech
 - date: Mar 2
   location: TBA
   title: 'MRA Reaccreditation: Snow & Ice'
