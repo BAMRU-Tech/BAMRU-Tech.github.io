@@ -65,6 +65,9 @@ trainings:
     in the plans and the contingencies.
   location: Mt Shasta
   title: Shasta Hotlum-Bolam Small Alpine
+- date: Jul 12
+  location: RWC Garage
+  title: Peninsula Rope Skills Night
 - date: Jul 14-16
   location: Yosemite NP
   title: Snow Creek Small Alpine
@@ -74,6 +77,12 @@ trainings:
 - date: Jul 22-23
   location: Hampshire Rocks Campground 50500 Donner Pass Rd, Emigrant Gap, CA 95715
   title: Tech Evolutions
+- date: Jul 26
+  location: RWC Garage
+  title: Peninsula Rope Skills Night
+- date: Aug 9
+  location: RWC Garage
+  title: Peninsula Rope Skills Night
 - date: Aug 19-20
   desc: Intensive weekend training to orient prospective members on the basic skills
     required to operate effectively in search and rescue operations. Intended for
@@ -82,12 +91,18 @@ trainings:
     approval.
   location: TBA
   title: SAR Basic * G
+- date: Aug 23
+  location: RWC Garage
+  title: Peninsula Rope Skills Night
 - date: Sep 6
   location: TBA
   title: Onboarding *
 - date: Sep 9
   location: TBA
   title: Gear & Truck *
+- date: Sep 13
+  location: RWC Garage
+  title: Peninsula Rope Skills Night
 - date: Sep 16-17
   desc: Hold the date. To be announced.
   location: TBA
@@ -103,6 +118,9 @@ trainings:
     and practice. Personal rock skills is a prerequisite for Basic Technical Training.
   location: TBA
   title: Personal Rock Skills (PRS) *
+- date: Sep 27
+  location: RWC Garage
+  title: Peninsula Rope Skills Night
 - date: Oct 21
   desc: Navigation training and signoffs, concentrating on map and compass, gps and
     caltopo usage. Focusing on becoming an effective nav lead during operations. Prerequisite
