@@ -12,9 +12,6 @@ content:
 enable: true
 meetings:
 - year: '2023'
-- date: Aug 14
-  location: Virtual
-  title: Unit Meeting
 - date: Sep 18
   location: Virtual
   title: Unit Meeting
