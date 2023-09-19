@@ -13,7 +13,7 @@ enable: true
 meetings:
 - year: '2023'
 - date: Sep 18
-  location: Virtual
+  location: 'Hybrid: Zoom + ROC'
   title: Unit Meeting
 - date: Oct 16
   location: Virtual
