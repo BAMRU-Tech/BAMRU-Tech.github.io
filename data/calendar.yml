@@ -12,9 +12,6 @@ content:
 enable: true
 meetings:
 - year: '2023'
-- date: Sep 18
-  location: 'Hybrid: Zoom + ROC'
-  title: Unit Meeting
 - date: Oct 16
   location: Virtual
   title: Unit Meeting
