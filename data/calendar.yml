@@ -86,10 +86,20 @@ trainings:
 - date: Dec 13
   location: RWC ROC (https://goo.gl/maps/iEM6gRvSFFSiTd9s5)
   title: Mental Health Skills Night
+- date: Dec 13
+  desc: This is an opportunity to view the pre-recorded classroom portion of the driver
+    training on Zoom with SMCSAR. Please sign up for the session you plan to attend.
+  location: Virtual
+  title: Driver training, classroom portion (Session 1)
 - year: '2024'
 - date: Jan 6-7
   location: TBA
   title: Snow Camping * G
+- date: Jan 10
+  desc: This is an opportunity to view the pre-recorded classroom portion of the driver
+    training on Zoom with SMCSAR.
+  location: Virtual
+  title: Driver Training, classroom portion (Session 2)
 - date: Jan 27-28
   location: TBA
   title: Snow Skills *
