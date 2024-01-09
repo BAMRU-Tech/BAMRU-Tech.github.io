@@ -78,10 +78,8 @@ title: Meetings and trainings
 trainings:
 - year: '2024'
 - date: Jan 10
-  desc: This is an opportunity to view the pre-recorded classroom portion of the driver
-    training on Zoom with SMCSAR.
   location: Virtual
-  title: Driver Training, classroom portion (Session 2)
+  title: Test Event
 - date: Jan 27-28
   location: North Lake Tahoe
   title: Snow Skills *
