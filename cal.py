@@ -62,8 +62,6 @@ for e in meetings:
 		location = "Virtual"
 	if location.lower() == "n/a":
 		location = ""
-	if ("Redwood City" in location):
-		location = "455 County Center, Room 101, Redwood City, CA 94063"
 	page_contents["meetings"].append({
 		"title": e.name,
 		"date": e.begin.to(TZ).format('MMM D'),
