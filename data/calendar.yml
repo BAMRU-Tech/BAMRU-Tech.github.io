@@ -13,37 +13,37 @@ enable: true
 meetings:
 - year: '2024'
 - date: Jan 22
-  location: Virtual + ROC
+  location: Hybrid
   title: Unit Meeting
 - date: Feb 26
-  location: TBA
+  location: Hybrid
   title: Unit Meeting
 - date: Mar 18
-  location: TBA
+  location: ROC
   title: Unit Meeting
 - date: Apr 15
-  location: TBA
+  location: Hybrid
   title: Unit Meeting
 - date: May 20
-  location: TBD
+  location: Hybrid
   title: Unit Meeting
 - date: Jun 17
-  location: TBD
+  location: ROC
   title: Unit Meeting
 - date: Jul 15
-  location: TBD
+  location: Hybrid
   title: Unit Meeting
 - date: Aug 19
-  location: TBD
+  location: Hybrid
   title: Unit Meeting
 - date: Sep 16
-  location: TBD
+  location: ROC
   title: Unit Meeting
 - date: Oct 21
-  location: TBD
+  location: Hybrid
   title: Unit Meeting
 - date: Nov 18
-  location: TBD
+  location: Hybrid
   title: Unit Meeting
 - year: '2025'
 - date: Jan 27
