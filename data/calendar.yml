@@ -108,14 +108,15 @@ trainings:
   location: TBA
   title: OL Training Pt 2
 - date: Apr 20
-  desc: The tracking training will cover primarily basic topics in tracking - recognizing
-    sign, preserving clues, the structure of a tracking team, and following sign.
-    Guests are welcome at this training, pending leader approval.
+  desc: Tracking in the morning and evening; Medical in the middle of the day. Both
+    Tracking and Medical portions are core trainings.
   location: TBA
-  title: Tracking * G
+  title: Tracking + Medical * G
 - date: Apr 21
+  desc: Medical in the morning, signoffs and recert scouting in the afternoon. Only
+    the medical morning is a core training.
   location: TBA
-  title: Medical *
+  title: Medical * + Signoff Afternoon
 - date: May 25-27
   desc: This three day course covers advanced topics in building and operating technical
     rescue systems. High-angle rescue systems with greater exposure, such as guiding
