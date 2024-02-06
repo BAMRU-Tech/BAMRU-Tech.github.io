@@ -104,6 +104,12 @@ trainings:
   desc: Focus on FM skills signoffs
   location: TBD
   title: 'Skills Day: FM Snow Signoffs'
+- date: Mar 30
+  desc: Santa Cruz SAR has invited up to 4 BAMRU members to participate in their technical
+    rope training in March. SCZSAR still uses main-belay, which may be beneficial
+    for some newer team members to learn and older team members to refamiliarize themselves.
+  location: TBA
+  title: SCZSAR Technical Rescue
 - date: Apr 3
   desc: Participation by invitation only. For Field and Technical Members.
   location: TBA
@@ -122,6 +128,13 @@ trainings:
     the medical morning is a core training.
   location: TBA
   title: Medical * + Signoff Afternoon
+- date: Apr 27
+  desc: Santa Cruz SAR is opening their Orienteering training to all of BAMRU for
+    cross-team pollination. Orienteering will likely be only map and compass held
+    in Castle Rock. We want to do mixed teams with varying nav abilities. Open to
+    all of BAMRU.
+  location: Castle Rock
+  title: SCZSAR Orienteering
 - date: May 25-27
   desc: This three day course covers advanced topics in building and operating technical
     rescue systems. High-angle rescue systems with greater exposure, such as guiding
