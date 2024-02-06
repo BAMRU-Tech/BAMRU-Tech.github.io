@@ -85,6 +85,7 @@ trainings:
   location: Convict Lake
   title: 'MRA Reaccreditation: Snow & Ice'
 - date: Mar 2
+  desc: Hosted by the MRA
   location: Convict Lake
   title: 'MRA Reaccreditation: Snow & Ice'
 - date: Mar 2
@@ -130,9 +131,8 @@ trainings:
   title: Medical * + Signoff Afternoon
 - date: Apr 27
   desc: Santa Cruz SAR is opening their Orienteering training to all of BAMRU for
-    cross-team pollination. Orienteering will likely be only map and compass held
-    in Castle Rock. We want to do mixed teams with varying nav abilities. Open to
-    all of BAMRU.
+    cross-team pollination. This will likely be only map and compass held in Castle
+    Rock. We want to do mixed teams with varying nav abilities.
   location: Castle Rock
   title: SCZSAR Orienteering
 - date: May 25-27
