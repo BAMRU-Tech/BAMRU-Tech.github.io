@@ -85,10 +85,10 @@ trainings:
   location: Convict Lake
   title: 'MRA Reaccreditation: Snow & Ice'
 - date: Mar 2
-  desc: Hosted by the MRA
   location: Convict Lake
   title: 'MRA Reaccreditation: Snow & Ice'
 - date: Mar 2
+  desc: Hosted by the MRA
   location: Convict Lake
   title: 'MRA Reaccreditation: Snow & Ice'
 - date: Mar 2
@@ -141,9 +141,9 @@ trainings:
     lines and high redirects will be taught and practiced.
   location: TBD
   title: Advanced Tech
-- date: Jun 22-23
+- date: Jun 22
   location: TBD
-  title: TBD
+  title: 'Search Management: Joint with SMC SAR'
 - date: Jul 20
   location: TBD
   title: Mock Search G
