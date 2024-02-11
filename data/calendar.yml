@@ -88,10 +88,10 @@ trainings:
   location: Convict Lake
   title: 'MRA Reaccreditation: Snow & Ice'
 - date: Mar 2
-  desc: Hosted by the MRA
   location: Convict Lake
   title: 'MRA Reaccreditation: Snow & Ice'
 - date: Mar 2
+  desc: Hosted by the MRA
   location: Convict Lake
   title: 'MRA Reaccreditation: Snow & Ice'
 - date: Mar 13
@@ -145,14 +145,18 @@ trainings:
   location: TBD
   title: 'Search Management: Joint with SMC SAR'
 - date: Jun 23
+  desc: If you have a training in mind which you would like to run on this day, please
+    reach out to the TO. Otherwise, this will likely be converted into a local signoff
+    day.
   location: TBD
-  title: TBD
+  title: Skills or Signoff Day (likely)
 - date: Jul 20
   location: TBD
   title: Mock Search G
 - date: Jul 21
+  desc: Aka off-road driver training
   location: TBD
-  title: TBD
+  title: Off-Pavement Driver Training
 - date: Aug 24-25
   desc: Intensive weekend training to orient prospective members on the basic skills
     required to operate effectively in search and rescue operations. Intended for
