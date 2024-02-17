@@ -76,19 +76,19 @@ trainings:
 - year: '2024'
 - date: Feb 24-25
   desc: Training to prepare for the March 2, 2024 MRA Snow & Ice Reaccreditation
-  location: Bear Valley Mountain Resort
+  location: Bear Valley Area
   title: MRA Snow & Ice Reaccreditation Team Training
 - date: Mar 2
-  location: Convict Lake
-  title: 'MRA Reaccreditation: Snow & Ice'
-- date: Mar 2
-  location: Convict Lake
-  title: 'MRA Reaccreditation: Snow & Ice'
-- date: Mar 2
-  location: Convict Lake
-  title: 'MRA Reaccreditation: Snow & Ice'
-- date: Mar 2
   desc: Hosted by the MRA
+  location: Convict Lake
+  title: 'MRA Reaccreditation: Snow & Ice'
+- date: Mar 2
+  location: Convict Lake
+  title: 'MRA Reaccreditation: Snow & Ice'
+- date: Mar 2
+  location: Convict Lake
+  title: 'MRA Reaccreditation: Snow & Ice'
+- date: Mar 2
   location: Convict Lake
   title: 'MRA Reaccreditation: Snow & Ice'
 - date: Mar 13
