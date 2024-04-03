@@ -73,7 +73,7 @@ trainings:
 - year: '2024'
 - date: Apr 3
   desc: Participation by invitation only. For Field and Technical Members.
-  location: https://us02web.zoom.us/j/86397616474?pwd=cFR5cmp6L0ZLcTFpM3hWSDJFTXVXQT09
+  location: Virtual
   title: OL Training Pt 1
 - date: Apr 3
   desc: Participation by invitation only. For Field and Technical Members.
@@ -81,8 +81,11 @@ trainings:
   title: OL Training Pt 1
 - date: Apr 10
   desc: Participation by invitation only. For Field and Technical Members.
-  location: https://us02web.zoom.us/j/86397616474?pwd=cFR5cmp6L0ZLcTFpM3hWSDJFTXVXQT09
+  location: Virtual
   title: OL Training Pt 2
+- date: Apr 13
+  location: Memorial Park, Loma Mar
+  title: SMC Mock SAR - Patients
 - date: Apr 20
   desc: Tracking in the morning and evening; Medical in the middle of the day. Both
     Tracking and Medical portions are core trainings.
