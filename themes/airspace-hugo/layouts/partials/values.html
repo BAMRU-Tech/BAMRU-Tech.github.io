@@ -1,0 +1,25 @@
+{{ partial "global-header.html" . }}
+
+{{ if .Site.Data.values.enable }}
+<!-- Service Start -->
+<section id="values">
+  <div class="container">
+
+    <!-- Content -->
+    <div class="row">
+      <div class="values-item container">
+      {{ range .Site.Data.values.content }}
+          <div class="row">
+            <div class="col-md-5">
+              <h3>{{ .name }}</h3>
+            </div>
+            <div class="col-md-6">
+              <p>{{ .text | markdownify }}</p>
+            </div>
+          </div>
+      {{ end }}
+    </div>
+    </div>
+  </div>
+</section>
+{{ end }}

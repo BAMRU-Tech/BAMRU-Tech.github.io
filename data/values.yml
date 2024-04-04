@@ -1,0 +1,23 @@
+enable: true
+title:
+subtitle:
+content:
+  - name: Here to Serve
+    text: >
+      We are here to reach out and give back to those in need, the community, and each other. 
+
+  - name: Know Thyself, Know Thy Team
+    text: >
+      We must be mindful of our abilities, limits, and those around us in order to safely perform.
+
+  - name: Take Ownership
+    text: >
+      Individual ownership supports collective responsibility.  We ask for help.
+      
+  - name: Constantly Improve
+    text: >
+      We reflect on our past experience and improve with a growth mindset no matter our rank or seniority.
+
+  - name: Make Others Successful
+    text: >
+      We recognize we have our own unique set of strengths and weaknesses.  We enable others to perform as well as offering help.

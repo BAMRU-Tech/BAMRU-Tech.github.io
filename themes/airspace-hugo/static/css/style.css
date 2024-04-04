@@ -421,10 +421,48 @@ font header .navbar-default .navbar-nav li a:hover {
 
 
 
+/*--
+	values Start
+--*/
+#values {
+  text-align: center;
+  padding: 90px 0;
+}
 
+#values .values-item {
+  padding-bottom: 30px;
+}
 
+#values .values-item i {
+  font-size: 60px;
+  color: #4A4656;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
 
+#values .values-item h3 {
+  margin: 0;
+  padding: 10px;
+  font-weight: bold;
+  color: #555;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
+#values .values-item p {
+  color: #666;
+  padding: 10px;
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+#values p {
+  text-align: start;
+}
 
 
 
