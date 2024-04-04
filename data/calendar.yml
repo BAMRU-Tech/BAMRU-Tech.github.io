@@ -74,11 +74,7 @@ trainings:
 - date: Apr 3
   desc: Participation by invitation only. For Field and Technical Members.
   location: Virtual
-  title: OL Training Pt 1
-- date: Apr 10
-  desc: Participation by invitation only. For Field and Technical Members.
-  location: Virtual
-  title: OL Training Pt 2
+  title: OL Training
 - date: Apr 13
   location: Memorial Park, Loma Mar
   title: SMC Mock SAR - Patients
