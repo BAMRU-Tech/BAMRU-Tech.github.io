@@ -12,9 +12,6 @@ content:
 enable: true
 meetings:
 - year: '2024'
-- date: May 20
-  location: Hybrid
-  title: Unit Meeting
 - date: Jun 17
   location: BCEH, 1955 Broadway, Suite B, Oakland, CA 94612
   title: Unit Meeting
