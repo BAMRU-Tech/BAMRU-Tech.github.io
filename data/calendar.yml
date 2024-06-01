@@ -72,9 +72,10 @@ trainings:
   location: TBD
   title: 'Search Management: Joint with SMC SAR'
 - date: Jun 23
-  desc: If you have a training in mind which you would like to run on this day, please
-    reach out to the TO. Otherwise, this will likely be converted into a local signoff
-    day.
+  desc: 'Morning: ELT detector introduction: what is it used for, what are the components,
+    and how do we use them? ELT detector field use: Someone hides the ELT practice
+    beacon and the rest of us try to find it (good practice for this TM signoff!).
+    Afternoon: General signoffs (choose your own adventure)'
   location: TBD
   title: ELT and Signoff Day
 - date: Jul 12-14
