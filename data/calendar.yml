@@ -12,9 +12,6 @@ content:
 enable: true
 meetings:
 - year: '2024'
-- date: Jul 15
-  location: Hybrid
-  title: Unit Meeting
 - date: Aug 19
   location: Hybrid
   title: Unit Meeting
