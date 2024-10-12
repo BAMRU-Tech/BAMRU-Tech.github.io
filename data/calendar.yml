@@ -63,7 +63,10 @@ trainings:
   location: Henry Coe State Park
   title: SCC SAR Mock Search
 - date: Oct 23
-  location: TBD
+  desc: 'To join the video meeting, click this link: https://meet.google.com/tno-sxvm-nbb
+    Otherwise, to join by phone, dial +1 316-512-3426 and enter this PIN: 945 508
+    034# To view more phone numbers, click this link: https://tel.meet/tno-sxvm-nbb?hs=5'
+  location: https://meet.google.com/tno-sxvm-nbb (online only)
   title: Navigation Classroom *
 - date: Oct 26
   desc: Navigation training and signoffs, concentrating on map and compass, gps and
