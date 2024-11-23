@@ -53,10 +53,10 @@ trainings:
   location: TBD
   title: Off-pavement Driver Training
 - date: Dec 11
-  location: ROC (In-Person)
+  location: TBD
   title: Mental Health Skills Night *
 - date: Dec 11
-  location: TBD
+  location: ROC (In-Person)
   title: Mental Health Skills Night *
 - date: Dec 21-22
   location: Donner Summit
@@ -104,4 +104,68 @@ trainings:
     of a search operation, in slow motion, in rugged terrain.
   location: TBD
   title: Search Management
+- date: Jun 21
+  location: TBD
+  title: Mock Search * G
+- date: Jul 19-20
+  desc: Intensive weekend training to orient prospective members on the basic skills
+    required to operate effectively in search and rescue operations. Intended for
+    people with no prior SAR experience. Attendance at SAR Basic is one of the requirements
+    for application to become a Trainee member. Training open to guests, pending Leader
+    approval.
+  location: TBD
+  title: SAR Basic * G
+- date: Aug 6
+  location: TBD
+  title: Onboarding *
+- date: Aug 9
+  location: TBD
+  title: Gear and Truck Training *
+- date: Aug 23
+  desc: Navigation training and signoffs, concentrating on map and compass, gps and
+    caltopo usage. Focusing on becoming an effective nav lead during operations. Prerequisite
+    include ability to read topo maps and relate terrain features to topo maps.
+  location: TBD
+  title: Navigation *
+- date: Aug 24
+  desc: We will focus on single line rescue systems as an introduction to the larger
+    world of technical rescue. Personal Rock Skills is required to attend this training.
+  location: TBD
+  title: Low Angle *
+- date: Sep 17
+  location: TBD
+  title: Purcell Prusik Skills Night
+- date: Sep 20-21
+  desc: This two day course covers general rock skills skill stations, scenarios,
+    and discussion of their application within the SAR community. Topics include anchors
+    (trad gear and natural protection), belaying, rappelling, basic self-rescue, jugging/ascending,
+    and personal emergency evac equipment with scenarios. Focus will be on both theory
+    and practice. Personal rock skills is a prerequisite for Basic Technical Training.
+  location: TBD
+  title: Personal Rock Skills (PRS) *
+- date: Oct 8
+  location: TBD
+  title: Low Angle Skills Night
+- date: Oct 11-12
+  location: TBD
+  title: High Angle *
+- date: Nov 5
+  desc: We will cover the theory of being Duty Officer (what needs to be done during
+    any DO shift, DO-ing during a training, what needs to be done in the ramp up for
+    a search, etc), and the practice of DO-ing (how do we accomplish all of these
+    things with the tools we have, like bamru.net). For new and experienced DOs alike!
+  location: TBD
+  title: DO Skills *
+- date: Nov 15
+  desc: The tracking training will cover primarily basic topics in tracking - recognizing
+    sign, preserving clues, the structure of a tracking team, and following sign.
+    Guests are welcome at this training, pending leader approval.
+  location: TBD
+  title: Tracking * G
+- date: Dec 6
+  location: TBD
+  title: On-Road Driver Training
+- date: Dec 10
+  location: TBD
+  title: Mental Health Skills Night
 
