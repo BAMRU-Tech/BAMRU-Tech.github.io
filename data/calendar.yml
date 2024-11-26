@@ -53,10 +53,10 @@ trainings:
   location: TBD
   title: Off-pavement Driver Training
 - date: Dec 11
-  location: TBD
+  location: ROC (In-Person)
   title: Mental Health Skills Night *
 - date: Dec 11
-  location: ROC (In-Person)
+  location: TBD
   title: Mental Health Skills Night *
 - date: Dec 21-22
   location: Donner Summit
@@ -74,6 +74,9 @@ trainings:
 - date: Mar 12
   location: TBD
   title: AHC Skills Night *
+- date: Mar 14-16
+  location: TBD
+  title: Tahoe Small Alpine
 - date: Mar 22-23
   location: TBD
   title: Snow Training Backup Dates *
@@ -88,9 +91,6 @@ trainings:
   location: TBD
   title: Tracking * G
 - date: Apr 27
-  location: TBD
-  title: Medical *
-- date: Apr 27
   desc: Medical Skills Training is all about putting our skills and knowledge to use.
     BAMRU has an exciting medical skills training planned this year. Some highlights
     include guest lecture by Stanford's Wilderness Medicine Fellow, Skill labs with
@@ -99,6 +99,9 @@ trainings:
     approval.
   location: TBD
   title: Medical * G
+- date: Apr 27
+  location: TBD
+  title: Medical *
 - date: May 17-18
   desc: We will spend two days planning and executing the first operational period
     of a search operation, in slow motion, in rugged terrain.
