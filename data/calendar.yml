@@ -45,7 +45,7 @@ trainings:
 - year: '2024'
 - date: Dec 21-22
   location: Donner Summit
-  title: Castle Peak Small Alpine
+  title: '[Canceled] Castle Peak Small Alpine'
 - year: '2025'
 - date: Jan 8
   desc: Set expectations for the snow camping weekend, avalanche safety intro, and
@@ -87,6 +87,9 @@ trainings:
   location: TBD
   title: Tracking * G
 - date: Apr 27
+  location: TBD
+  title: Medical *
+- date: Apr 27
   desc: Medical Skills Training is all about putting our skills and knowledge to use.
     BAMRU has an exciting medical skills training planned this year. Some highlights
     include guest lecture by Stanford's Wilderness Medicine Fellow, Skill labs with
@@ -95,9 +98,6 @@ trainings:
     approval.
   location: TBD
   title: Medical * G
-- date: Apr 27
-  location: TBD
-  title: Medical *
 - date: May 17-18
   desc: We will spend two days planning and executing the first operational period
     of a search operation, in slow motion, in rugged terrain.
