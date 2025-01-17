@@ -47,13 +47,13 @@ trainings:
   location: Meiss Meadows
   title: Meiss Meadow Peaks
 - date: Feb 1-2
-  location: North Lake Tahoe
-  title: Snow Skills*
-- date: Feb 1-2
-  location: North Lake Tahoe
-  title: Snow Skills*
-- date: Feb 1-2
   location: TBD
+  title: Snow Skills*
+- date: Feb 1-2
+  location: North Lake Tahoe
+  title: Snow Skills*
+- date: Feb 1-2
+  location: North Lake Tahoe
   title: Snow Skills*
 - date: Feb 22-23
   location: Lassen NP
@@ -67,6 +67,12 @@ trainings:
 - date: Mar 14-16
   location: TBD
   title: Tahoe Small Alpine
+- date: Mar 16
+  desc: I'm planning a casual get-to-know-you hike for guests again this year.  We're
+    aiming for a medium difficulty, 3-4 mile hike, probably with a short demonstration
+    in the middle.  Should be complete by early afternoon.  More details to come!
+  location: TBD
+  title: Casual hike for guests (G)
 - date: Mar 22-23
   location: TBD
   title: Snow Training Backup Dates *
@@ -87,9 +93,6 @@ trainings:
   location: TBD
   title: Tracking * G
 - date: Apr 27
-  location: TBD
-  title: Medical *
-- date: Apr 27
   desc: Medical Skills Training is all about putting our skills and knowledge to use.
     BAMRU has an exciting medical skills training planned this year. Some highlights
     include guest lecture by Stanford's Wilderness Medicine Fellow, Skill labs with
@@ -98,6 +101,9 @@ trainings:
     approval.
   location: TBD
   title: Medical * G
+- date: Apr 27
+  location: TBD
+  title: Medical *
 - date: May 17-18
   desc: We will spend two days planning and executing the first operational period
     of a search operation, in slow motion, in rugged terrain.
