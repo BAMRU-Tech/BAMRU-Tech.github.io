@@ -93,9 +93,6 @@ trainings:
   location: TBD
   title: Tracking * G
 - date: Apr 27
-  location: TBD
-  title: Medical *
-- date: Apr 27
   desc: Medical Skills Training is all about putting our skills and knowledge to use.
     BAMRU has an exciting medical skills training planned this year. Some highlights
     include guest lecture by Stanford's Wilderness Medicine Fellow, Skill labs with
@@ -104,6 +101,9 @@ trainings:
     approval.
   location: TBD
   title: Medical * G
+- date: Apr 27
+  location: TBD
+  title: Medical *
 - date: May 17-18
   desc: We will spend two days planning and executing the first operational period
     of a search operation, in slow motion, in rugged terrain.
@@ -120,12 +120,9 @@ trainings:
     approval.
   location: TBD
   title: SAR Basic * G
-- date: Aug 1
-  location: Virtual
-  title: Candidate Interviews (If needed)
 - date: Aug 2
   location: Virtual
-  title: Candidate Interviews
+  title: Candidate Interviews (If needed)
 - date: Aug 3
   location: Virtual
   title: Candidate Interviews
