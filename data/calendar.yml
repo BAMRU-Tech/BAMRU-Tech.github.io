@@ -39,9 +39,9 @@ subtitle: 'BAMRU monthly General Meetings are where members discuss recent and f
   '
 title: Meetings and trainings
 trainings:
-- date: Feb 22-23
-  location: Lassen NP
-  title: Lassen Peak - small alpine
+- date: Feb 21-23
+  location: Yosemite NP
+  title: Devils Dance Floor - small alpine
 - date: Mar 7
   desc: "Search Methods and ID in a Burned Environment is a 1 Day, 8-hour classroom\
     \ and field instruction course with Forensic Anthropologists Instructors. This\
@@ -88,6 +88,9 @@ trainings:
   location: TBD
   title: Tracking * G
 - date: Apr 27
+  location: TBD
+  title: Medical *
+- date: Apr 27
   desc: Medical Skills Training is all about putting our skills and knowledge to use.
     BAMRU has an exciting medical skills training planned this year. Some highlights
     include guest lecture by Stanford's Wilderness Medicine Fellow, Skill labs with
@@ -96,9 +99,6 @@ trainings:
     approval.
   location: TBD
   title: Medical * G
-- date: Apr 27
-  location: TBD
-  title: Medical *
 - date: May 17-18
   desc: We will spend two days planning and executing the first operational period
     of a search operation, in slow motion, in rugged terrain.
