@@ -12,9 +12,6 @@ content:
 enable: true
 meetings:
 - year: '2025'
-- date: Mar 17
-  location: In Person at ROC*
-  title: Unit Meeting
 - date: Apr 21
   location: Hybrid
   title: Unit Meeting
