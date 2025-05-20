@@ -12,9 +12,6 @@ content:
 enable: true
 meetings:
 - year: '2025'
-- date: May 19
-  location: In Person at ROC*
-  title: Unit Meeting
 - date: Jun 16
   location: Virtual Only
   title: Unit Meeting
