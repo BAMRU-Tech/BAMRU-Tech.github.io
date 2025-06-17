@@ -10,11 +10,7 @@ content:
 
     '
 enable: true
-meetings:
-- year: '2025'
-- date: Jun 16
-  location: Virtual Only
-  title: Unit Meeting
+meetings: []
 subtitle: 'BAMRU monthly General Meetings are where members discuss recent and future
   Unit activities, including trainings and missions. General Meetings are open to
   the public, generally on the third Monday of every month.  [See calendar for dates.]
@@ -30,6 +26,7 @@ subtitle: 'BAMRU monthly General Meetings are where members discuss recent and f
   '
 title: Meetings and trainings
 trainings:
+- year: '2025'
 - date: Jun 21
   location: Portola Redwoods State Park
   title: Mock Search * G
