@@ -10,7 +10,23 @@ content:
 
     '
 enable: true
-meetings: []
+meetings:
+- year: '2025'
+- date: Jul 21
+  location: Hybrid
+  title: Unit Meeting
+- date: Aug 18
+  location: TBD
+  title: Unit Meeting
+- date: Sep 15
+  location: TBD
+  title: Unit Meeting
+- date: Oct 20
+  location: TBD
+  title: Unit Meeting
+- date: Nov 17
+  location: TBD
+  title: Unit Meeting
 subtitle: 'BAMRU monthly General Meetings are where members discuss recent and future
   Unit activities, including trainings and missions. General Meetings are open to
   the public, generally on the third Monday of every month.  [See calendar for dates.]
@@ -26,10 +42,6 @@ subtitle: 'BAMRU monthly General Meetings are where members discuss recent and f
   '
 title: Meetings and trainings
 trainings:
-- year: '2025'
-- date: Jul 21
-  location: Hybrid
-  title: General Meeting
 - date: Jul 26-27
   desc: Intensive weekend training to orient prospective members on the basic skills
     required to operate effectively in search and rescue operations. Intended for
@@ -59,9 +71,6 @@ trainings:
 - date: Aug 16
   location: TBD
   title: Gear and Truck Training *
-- date: Aug 18
-  location: TBD
-  title: General Meeting
 - date: Aug 23
   desc: Navigation training and signoffs, concentrating on map and compass, gps and
     caltopo usage. Focusing on becoming an effective nav lead during operations. Prerequisite
@@ -73,9 +82,6 @@ trainings:
     world of technical rescue.
   location: TBD
   title: Low Angle *
-- date: Sep 15
-  location: TBD
-  title: General Meeting
 - date: Sep 17
   location: TBD
   title: Purcell Prusik Skills Night
@@ -93,9 +99,6 @@ trainings:
 - date: Oct 11-12
   location: TBD
   title: High Angle *
-- date: Oct 20
-  location: TBD
-  title: General Meeting
 - date: Nov 5
   desc: We will cover the theory of being Duty Officer (what needs to be done during
     any DO shift, DO-ing during a training, what needs to be done in the ramp up for
@@ -109,9 +112,6 @@ trainings:
     Guests are welcome at this training, pending leader approval.
   location: TBD
   title: Tracking * G
-- date: Nov 17
-  location: TBD
-  title: General Meeting
 - date: Dec 6
   location: TBD
   title: On-Road Driver Training
