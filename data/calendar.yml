@@ -12,9 +12,6 @@ content:
 enable: true
 meetings:
 - year: '2025'
-- date: Jul 21
-  location: Hybrid
-  title: Unit Meeting
 - date: Aug 18
   location: In-person at ROC*
   title: Unit Meeting
@@ -45,9 +42,6 @@ subtitle: 'BAMRU monthly General Meetings are where members discuss recent and f
   '
 title: Meetings and trainings
 trainings:
-- date: Jul 18-21
-  location: Northgate Trailhead
-  title: Mt. Shasta Small Alpine
 - date: Jul 26-27
   desc: Intensive weekend training to orient prospective members on the basic skills
     required to operate effectively in search and rescue operations. Intended for
