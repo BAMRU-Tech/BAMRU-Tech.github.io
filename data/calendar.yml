@@ -12,9 +12,6 @@ content:
 enable: true
 meetings:
 - year: '2025'
-- date: Sep 15
-  location: Hybrid
-  title: Unit Meeting
 - date: Oct 20
   location: Virtual ONLY
   title: Unit Meeting
