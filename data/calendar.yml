@@ -15,9 +15,6 @@ meetings:
 - date: Nov 17
   location: 'Hybrid: in-person encouraged'
   title: Unit Meeting
-- date: Nov 17
-  location: 'Hybrid: in-person encouraged'
-  title: Unit Meeting
 subtitle: 'BAMRU monthly General Meetings are where members discuss recent and future
   Unit activities, including trainings and missions. General Meetings are open to
   the public, generally on the third Monday of every month.  [See calendar for dates.]
@@ -36,9 +33,6 @@ trainings:
 - date: Nov 1
   location: Indian Springs
   title: Placer County MRT High Angle Training
-- date: Nov 1
-  location: Indian Springs
-  title: Placer County MRT High Angle Training
 - date: Nov 5
   desc: We will cover the theory of being Duty Officer (what needs to be done during
     any DO shift, DO-ing during a training, what needs to be done in the ramp up for
@@ -46,40 +40,6 @@ trainings:
     things with the tools we have, like bamru.net). For new and experienced DOs alike!
   location: Virtual - Google Meets
   title: DO Skills *
-- date: Nov 5
-  desc: We will cover the theory of being Duty Officer (what needs to be done during
-    any DO shift, DO-ing during a training, what needs to be done in the ramp up for
-    a search, etc), and the practice of DO-ing (how do we accomplish all of these
-    things with the tools we have, like bamru.net). For new and experienced DOs alike!
-  location: Virtual - Google Meets
-  title: DO Skills *
-- date: Nov 10
-  location: Virtual
-  title: Monthly Tech Rope Meeting
-- date: Nov 10
-  location: Virtual
-  title: Monthly Tech Rope Meeting
-- date: Nov 10
-  location: Virtual
-  title: Monthly Tech Rope Meeting
-- date: Nov 10
-  location: Virtual
-  title: Monthly Tech Rope Meeting
-- date: Nov 10
-  location: Virtual
-  title: Monthly Tech Rope Meeting
-- date: Nov 10
-  location: Virtual
-  title: Monthly Tech Rope Meeting
-- date: Nov 10
-  location: Virtual
-  title: Monthly Tech Rope Meeting
-- date: Nov 10
-  location: Virtual
-  title: Monthly Tech Rope Meeting
-- date: Nov 12
-  location: TBD
-  title: 2026 Recert Training - Skill Night
 - date: Nov 12
   location: TBD
   title: 2026 Recert Training - Skill Night
@@ -89,27 +49,12 @@ trainings:
     Guests are welcome at this training, pending leader approval.
   location: TBD
   title: Tracking * G
-- date: Nov 15
-  desc: The tracking training will cover primarily basic topics in tracking - recognizing
-    sign, preserving clues, the structure of a tracking team, and following sign.
-    Guests are welcome at this training, pending leader approval.
-  location: TBD
-  title: Tracking * G
-- date: Nov 19
-  location: RWC Garage
-  title: Technical Rock Rescue Reaccreditation Practice Night
 - date: Nov 19
   location: RWC Garage
   title: Technical Rock Rescue Reaccreditation Practice Night
 - date: Dec 6
   location: TBD
   title: On-Road Driver Training
-- date: Dec 6
-  location: TBD
-  title: On-Road Driver Training
-- date: Dec 10
-  location: TBD
-  title: Mental Health Skills Night *
 - date: Dec 10
   location: TBD
   title: Mental Health Skills Night *
@@ -117,54 +62,27 @@ trainings:
 - date: Jan 10-11
   location: TBD
   title: Snow Camping*
-- date: Jan 10-11
-  location: TBD
-  title: Snow Camping*
-- date: Jan 31 - Feb 1
-  location: TBD
-  title: Snow Skills*
 - date: Jan 31 - Feb 1
   location: TBD
   title: Snow Skills*
 - date: Mar 11
   location: TBD
   title: AHC Skills Night*
-- date: Mar 11
-  location: TBD
-  title: AHC Skills Night*
-- date: Mar 28-29
-  location: TBD
-  title: Snow Training Backup*
 - date: Mar 28-29
   location: TBD
   title: Snow Training Backup*
 - date: Apr 15
   location: TBD
   title: OL Training
-- date: Apr 15
-  location: TBD
-  title: OL Training
-- date: Apr 26
-  location: TBD
-  title: Medical G*
 - date: Apr 26
   location: TBD
   title: Medical G*
 - date: May 23-25
   location: TBD
   title: Advanced Tech
-- date: May 23-25
-  location: TBD
-  title: Advanced Tech
 - date: Jun 28
   location: TBD
   title: Mock Search G*
-- date: Jun 28
-  location: TBD
-  title: Mock Search G*
-- date: Jul 25-26
-  location: TBD
-  title: SAR Basic G*
 - date: Jul 25-26
   location: TBD
   title: SAR Basic G*
