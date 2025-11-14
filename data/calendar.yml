@@ -15,6 +15,10 @@ meetings:
 - date: Nov 17
   location: 'Hybrid: in-person encouraged'
   title: Unit Meeting
+- year: '2026'
+- date: Jan 25
+  location: TBA
+  title: Unit Meeting
 subtitle: 'BAMRU monthly General Meetings are where members discuss recent and future
   Unit activities, including trainings and missions. General Meetings are open to
   the public, generally on the third Monday of every month.  [See calendar for dates.]
@@ -30,6 +34,7 @@ subtitle: 'BAMRU monthly General Meetings are where members discuss recent and f
   '
 title: Meetings and trainings
 trainings:
+- year: '2025'
 - date: Nov 15
   desc: The tracking training will cover primarily basic topics in tracking - recognizing
     sign, preserving clues, the structure of a tracking team, and following sign.
