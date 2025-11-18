@@ -11,10 +11,6 @@ content:
     '
 enable: true
 meetings:
-- year: '2025'
-- date: Nov 17
-  location: 'Hybrid: in-person encouraged'
-  title: Unit Meeting
 - year: '2026'
 - date: Jan 25
   location: TBA
