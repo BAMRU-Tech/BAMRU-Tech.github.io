@@ -41,6 +41,11 @@ trainings:
   location: ROC
   title: Mental Health Skills Night *
 - year: '2026'
+- date: Jan 7
+  desc: Set expectations for the snow camping weekend, avalanche safety intro, and
+    gear review.
+  location: Virtual
+  title: Pre-load Zoom / Snow camping
 - date: Jan 10-11
   location: Lassen National Park
   title: Snow Camping*
