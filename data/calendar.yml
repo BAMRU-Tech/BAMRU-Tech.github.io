@@ -13,37 +13,37 @@ enable: true
 meetings:
 - year: '2026'
 - date: Jan 26
-  location: TBA
+  location: Hybrid
   title: Unit Meeting
 - date: Feb 23
-  location: TBD
+  location: In Person
   title: Unit Meeting
 - date: Mar 16
-  location: TBD
+  location: Virtual
   title: Unit Meeting
 - date: Apr 20
-  location: TBD
+  location: Hybrid
   title: Unit Meeting
 - date: May 18
-  location: TBD
+  location: In Person
   title: Unit Meeting
 - date: Jun 15
-  location: TBD
+  location: Virtual
   title: Unit Meeting
 - date: Jul 20
-  location: TBD
+  location: Hybrid
   title: Unit Meeting
 - date: Aug 17
-  location: TBD
+  location: In Person
   title: Unit Meeting
 - date: Sep 21
-  location: TBD
+  location: Virtual
   title: Unit Meeting
 - date: Oct 19
-  location: TBD
+  location: Hybrid
   title: Unit Meeting
 - date: Nov 16
-  location: TBD
+  location: In Person
   title: Unit Meeting
 subtitle: 'BAMRU monthly General Meetings are where members discuss recent and future
   Unit activities, including trainings and missions. General Meetings are open to
