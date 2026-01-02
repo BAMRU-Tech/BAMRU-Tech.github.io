@@ -159,22 +159,13 @@ trainings:
   location: TBD
   title: On-Road Driver Training
 - year: '2027'
-- date: Jan 9-10
-  location: TBD
-  title: Snow Skills *
 - date: Jan 30-31
   location: TBD
-  title: Snow Camping *
+  title: Snow Skills *
 - date: Feb 24
   location: Virtual
   title: At Home Coordinator (AHC) Skills Night *
-- date: Mar 27-28
-  location: TBD
-  title: Snow Training Backup *
-- date: Apr 14
-  location: Virtual
-  title: OL Training *
-- date: Apr 24
+- date: Feb 27
   desc: Medical Skills Training is all about putting our skills and knowledge to use.
     BAMRU has an exciting medical skills training planned this year. Some highlights
     include guest lecture by Stanford's Wilderness Medicine Fellow, Skill labs with
@@ -183,6 +174,15 @@ trainings:
     approval.
   location: TBD
   title: Medical * G
+- date: Mar 20-21
+  location: TBD
+  title: Snow Camping *
+- date: Apr 3-4
+  location: TBD
+  title: Snow Training Backup *
+- date: Apr 14
+  location: Virtual
+  title: OL Training *
 - date: May 22-23
   desc: We will spend two days planning and executing the first operational period
     of a search operation, in slow motion, in rugged terrain.
