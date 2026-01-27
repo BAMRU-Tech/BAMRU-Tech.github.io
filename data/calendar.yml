@@ -12,9 +12,6 @@ content:
 enable: true
 meetings:
 - year: '2026'
-- date: Jan 26
-  location: Hybrid
-  title: Unit Meeting
 - date: Feb 23
   location: In Person
   title: Unit Meeting
