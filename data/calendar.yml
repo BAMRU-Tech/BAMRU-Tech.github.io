@@ -30,9 +30,6 @@ meetings:
 - date: Jul 20
   location: Hybrid
   title: Unit Meeting
-- date: Aug 17
-  location: In Person
-  title: Unit Meeting
 - date: Sep 21
   location: Virtual
   title: Unit Meeting
@@ -73,12 +70,16 @@ trainings:
 - date: Mar 11
   location: TBD
   title: AHC Skills Night*
+- date: Mar 28-29
+  desc: Two day trip to Castle Peak and surrounding area
+  location: Castle Peak Area
+  title: Castle Peak Small Alpine
 - date: Apr 4
   location: Donner
   title: TM Sign-off day - Tahoe
 - date: Apr 11
   location: TBD
-  title: Radio and Drone Training *G
+  title: Radio and Drone Training G*
 - date: Apr 15
   location: TBD
   title: OL Training
