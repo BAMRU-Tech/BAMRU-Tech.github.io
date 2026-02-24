@@ -12,9 +12,6 @@ content:
 enable: true
 meetings:
 - year: '2026'
-- date: Feb 23
-  location: In Person
-  title: Unit Meeting
 - date: Mar 16
   location: Virtual
   title: Unit Meeting
