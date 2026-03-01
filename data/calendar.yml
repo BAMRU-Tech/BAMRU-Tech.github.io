@@ -64,6 +64,13 @@ trainings:
 - date: Apr 4
   location: Donner
   title: TM Sign-off day - Tahoe
+- date: Apr 4
+  desc: Contra Costa County Search and Rescue will host a joint SAR UAS training on
+    Saturday, April 4, 2026, in the Walnut Creek area.  This training will focus on
+    techniques, operational standards, and best practices developed over the past
+    year through the CalAIR SAR Coordination Group
+  location: Contra Costa County
+  title: Joint SAR UAS Training
 - date: Apr 11
   location: TBD
   title: Radio and Drone Training G*
