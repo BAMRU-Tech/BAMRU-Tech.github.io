@@ -55,15 +55,12 @@ trainings:
   location: Los Padres National Forest (Monterey County)
   title: CRMRA (NorCal) Tech Rock Reaccreditation
 - date: Mar 11
-  location: TBD
+  location: Virtual
   title: AHC Skills Night*
 - date: Mar 28-29
   desc: Two day trip to Castle Peak and surrounding area
   location: Castle Peak Area
   title: Castle Peak Small Alpine
-- date: Apr 4
-  location: Donner
-  title: TM Sign-off day - Tahoe
 - date: Apr 4
   desc: Contra Costa County Search and Rescue will host a joint SAR UAS training on
     Saturday, April 4, 2026, in the Walnut Creek area.  This training will focus on
@@ -71,6 +68,9 @@ trainings:
     year through the CalAIR SAR Coordination Group
   location: Contra Costa County
   title: Joint SAR UAS Training
+- date: Apr 4
+  location: Donner
+  title: TM Sign-off day - Tahoe
 - date: Apr 11
   location: TBD
   title: Radio and Drone Training G*
