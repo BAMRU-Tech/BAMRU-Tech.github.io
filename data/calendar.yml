@@ -51,9 +51,6 @@ subtitle: 'BAMRU monthly General Meetings are where members discuss recent and f
   '
 title: Meetings and trainings
 trainings:
-- date: Mar 5
-  location: TBD - in person
-  title: Winter Gear Skills Night
 - date: Mar 7
   location: Los Padres National Forest (Monterey County)
   title: CRMRA (NorCal) Tech Rock Reaccreditation
@@ -65,15 +62,15 @@ trainings:
   location: Andesite Peak Area
   title: Andesite Peak Small Alpine
 - date: Apr 4
+  location: Donner
+  title: TM Sign-off day - Tahoe
+- date: Apr 4
   desc: Contra Costa County Search and Rescue will host a joint SAR UAS training on
     Saturday, April 4, 2026, in the Walnut Creek area.  This training will focus on
     techniques, operational standards, and best practices developed over the past
     year through the CalAIR SAR Coordination Group
   location: Contra Costa County
   title: Joint SAR UAS Training
-- date: Apr 4
-  location: Donner
-  title: TM Sign-off day - Tahoe
 - date: Apr 11
   location: TBD
   title: Radio and Drone Training G*
@@ -146,6 +143,9 @@ trainings:
 - date: Dec 5
   location: TBD
   title: On-Road Driver Training
+- date: Dec 16
+  location: TBD - in person
+  title: Winter Gear Skills Night
 - year: '2027'
 - date: Jan 30-31
   location: TBD
