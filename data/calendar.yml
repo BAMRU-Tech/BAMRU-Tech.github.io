@@ -46,11 +46,11 @@ subtitle: 'BAMRU monthly General Meetings are where members discuss recent and f
 title: Meetings and trainings
 trainings:
 - date: May 23-25
-  location: Yosemite National Park
-  title: Advanced Tech
-- date: May 23-25
   location: Mokelumne Wilderness
   title: Deadwood Peak Small Alpine
+- date: May 23-25
+  location: Yosemite National Park
+  title: Advanced Tech
 - date: Jun 28
   location: TBD
   title: Mock Search G
