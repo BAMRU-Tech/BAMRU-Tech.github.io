@@ -49,6 +49,9 @@ trainings:
   location: TBD
   title: Mock SAR G
 - date: Jul 11
+  desc: Priority to TMs and FM's, may open up the training for Trainees who participated
+    in our MRA Reaccreditation as well as Trainees who have completed their technical
+    sign-offs.
   location: TBD
   title: Advanced Tech Rope Skill Day
 - date: Jul 25-26
@@ -78,15 +81,33 @@ trainings:
 - date: Aug 2-3
   location: Virtual
   title: Candidate Interviews
+- date: Aug 12
+  desc: Priority to TMs and FM's, may open up the training for Trainees who participated
+    in our MRA Reaccreditation as well as Trainees who have completed their technical
+    sign-offs.
+  location: TBD
+  title: Advanced Tech Rope Evening
 - date: Aug 15
   location: TBD
   title: Onboarding *
 - date: Aug 15
   location: TBD
   title: Gear and Truck Familiarization *
+- date: Aug 16
+  desc: Priority to TMs and FM's, may open up the training for Trainees who participated
+    in our MRA Reaccreditation as well as Trainees who have completed their technical
+    sign-offs.
+  location: TBD
+  title: Advanced Tech Rope Skill Day
 - date: Aug 29-30
   location: Bear Valley
   title: Navigation and Tracking *
+- date: Sep 9
+  desc: Priority to TMs and FM's, may open up the training for Trainees who participated
+    in our MRA Reaccreditation as well as Trainees who have completed their technical
+    sign-offs.
+  location: TBD
+  title: Advanced Tech rope Evening
 - date: Sep 16
   location: Redwood City
   title: Purcell Prusik Skills Night
