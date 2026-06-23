@@ -12,9 +12,6 @@ content:
 enable: true
 meetings:
 - year: '2026'
-- date: Jun 22
-  location: Virtual
-  title: Unit Meeting
 - date: Jul 20
   location: Hybrid
   title: Unit Meeting
