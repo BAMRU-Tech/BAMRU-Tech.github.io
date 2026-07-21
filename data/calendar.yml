@@ -12,9 +12,6 @@ content:
 enable: true
 meetings:
 - year: '2026'
-- date: Jul 20
-  location: Hybrid
-  title: Unit Meeting
 - date: Aug 24
   location: In Person (members only, no guests)
   title: Unit Meeting
