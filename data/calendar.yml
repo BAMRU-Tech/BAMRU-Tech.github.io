@@ -39,6 +39,11 @@ subtitle: 'BAMRU monthly General Meetings are where members discuss recent and f
   '
 title: Meetings and trainings
 trainings:
+- date: Jul 22
+  desc: Missing 80-year-old experienced hiker two days overdue from week long hike
+    near Little Duck Lake. Departure Tuesday evening for Wednesday morning briefing.
+  location: Siskiyou County Yard (1005 CA Hwy 3 Etna, CA)
+  title: 'Heads Up: Siskiyou County near Etna, CA'
 - date: Jul 25-26
   desc: https://www.smcgov.org/parks/facility/redwood-shelter
   location: Huddart Park (Redwood Shelter)
@@ -112,8 +117,11 @@ trainings:
   location: Virtual
   title: DO Skills Night *
 - date: Nov 21-22
-  location: Monterey County
-  title: Advance Tech Rope evolutions
+  desc: Raincheck date from the cancelled May 23-25, 2026 Adv Tech training in YOSE.  Priority
+    to TMs and FM's, may open up the training for Trainees who participated in our
+    MRA Reaccreditation as well as Trainees who have completed their technical sign-offs.
+  location: Pinnacles NP (East or West TBD)
+  title: Advance Tech Evolutions
 - date: Dec 2
   location: TBD
   title: Mental Health Skills Night *
