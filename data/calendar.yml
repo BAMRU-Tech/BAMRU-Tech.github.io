@@ -43,9 +43,6 @@ trainings:
   location: ROC
   title: Onboarding + Gear and Truck Familiarization *
 - date: Aug 16
-  desc: Demo and practice the move to ATC-Style Devices as the default descent device
-    we will be teaching, replacing the Scarab. See https://docs.google.com/document/d/1wRlE1TTbWtg5CGO8xj2UNEb0XzDuT9OHPSgmcurFOmc/edit?pli=1&tab=t.0  for
-    more information.
   location: ROC
   title: TTRS and ATC Skill Day
 - date: Aug 26
