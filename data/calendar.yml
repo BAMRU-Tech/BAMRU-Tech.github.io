@@ -46,7 +46,7 @@ trainings:
   location: TBD
   title: 2027 Snow and Ice Recert Training
 - date: Dec 16
-  location: TBD
+  location: ROC
   title: Winter Gear Skills Night
 - year: '2027'
 - date: Jan 9-10
@@ -88,6 +88,10 @@ trainings:
 - date: Apr 14
   location: Virtual
   title: OL Training *
+- date: Apr 29 - May 2
+  desc: Three-day snowshoe small alpine on Lassen Peak
+  location: Lassen Volcanic NP (Kohm Yah-mah-nee Visitor Center, SW entrance)
+  title: Lassen Peak Small Alpine
 - date: May 22-23
   desc: We will spend two days planning and executing the first operational period
     of a search operation, in slow motion, in rugged terrain.
