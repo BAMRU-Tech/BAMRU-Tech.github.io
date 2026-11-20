@@ -11,8 +11,38 @@ content:
     '
 enable: true
 meetings:
-- year: '2026'
-- date: Nov 16
+- year: '2027'
+- date: Jan 11
+  location: Hybrid
+  title: Unit Meeting
+- date: Feb 8
+  location: In Person
+  title: Unit Meeting
+- date: Mar 15
+  location: Virtual
+  title: Unit Meeting
+- date: Apr 19
+  location: Hybrid
+  title: Unit Meeting
+- date: May 17
+  location: In Person
+  title: Unit Meeting
+- date: Jun 21
+  location: Virtual
+  title: Unit Meeting
+- date: Jul 19
+  location: Hybrid
+  title: Unit Meeting
+- date: Aug 16
+  location: In Person (members only, no guests)
+  title: Unit Meeting
+- date: Sep 20
+  location: Virtual
+  title: Unit Meeting
+- date: Oct 18
+  location: Hybrid
+  title: Unit Meeting
+- date: Nov 15
   location: In Person
   title: Unit Meeting
 subtitle: 'BAMRU monthly General Meetings are where members discuss recent and future
@@ -30,9 +60,7 @@ subtitle: 'BAMRU monthly General Meetings are where members discuss recent and f
   '
 title: Meetings and trainings
 trainings:
-- date: Nov 11
-  location: Virtual
-  title: Advanced Tech pre-load
+- year: '2026'
 - date: Nov 21-22
   location: Pinnacles NP, Chaparral Parking
   title: Advanced Tech [Makeup]
@@ -81,12 +109,12 @@ trainings:
   title: 2027 Snow and Ice Reaccreditation Test (backup date)
 - date: Mar 20-21
   location: TBD
-  title: Snow Camping *
+  title: Snow Camping *G
 - date: Apr 3-4
   location: TBD
   title: Snow Training Backup *
 - date: Apr 14
-  location: Virtual
+  location: In Person
   title: OL Training *
 - date: Apr 29 - May 2
   desc: Three-day snowshoe small alpine on Lassen Peak
@@ -108,4 +136,39 @@ trainings:
     approval.
   location: TBD
   title: SAR Basic * G
+- date: Aug 11
+  location: Virtual
+  title: Onboarding*
+- date: Aug 14
+  location: Redwood City
+  title: Gear and Truck Training*
+- date: Aug 25
+  location: TBD
+  title: Navigation/Tracking Pre-Load*
+- date: Aug 28-29
+  location: Bear Valley
+  title: Navigation and Tracking Training *
+- date: Sep 15
+  location: TBD
+  title: Purcell Prusik Skills Night
+- date: Sep 18-19
+  location: North Tahoe
+  title: Personal Rock Skills (PRS)*
+- date: Oct 3
+  desc: We will focus on single line rescue systems as an introduction to the larger
+    world of technical rescue. Personal Rock Skills is required to attend this training.
+  location: TBD
+  title: Low Angle *
+- date: Oct 13
+  location: In person
+  title: Low Angle Skills Night
+- date: Oct 23-24
+  location: TBD
+  title: High Angle *
+- date: Dec 4
+  location: ROC - Redwood City
+  title: On-Road Driver Training
+- date: Dec 8
+  location: TBD - In Person
+  title: Mental Health Skills Night *
 
